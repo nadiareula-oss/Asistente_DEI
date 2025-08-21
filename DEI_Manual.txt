@@ -1,0 +1,956 @@
+--- PÁGINA 1 --- MANUAL DE DIVERSIDAD, EQUIDAD E INCLUSIÓN EN LAS COMUNICACIONES 
+--- PÁGINA 3 ---
+1.	INTRODUCCIÓN 
+2.	ENFOQUE DE DIVERSIDAD E INCLUSIÓN  
+3.	CONCEPTOS CLAVES 
+3.1. Dimensiones de la diversidad 
+3.2. DEI en marketing y publicidad 
+3.3. Sesgos inconscientes, estereotipos y prejuicios 
+3.4. Discriminación en publicidad 
+3.5. Estereotipos más recurrentes 
+3.6. Consecuencias de la discriminación 
+3.7. Sobre el enfoque de DEI y la marca 
+4.	DEL DECIR AL HACER 
+4.1. Sobre los grupos de interés 
+4.1.1. Herramientas para la identificación de stake holders (SH) 
+4.2. Sobre la incorporación de DEI en los procesos 
+4.3. Caja de herramientas 
+4.3.1. Checklist de procesos con enfoque en DEI 
+4.3.1.1. Fase de planificación 
+4.3.1.2. Fase de desarrollo 
+4.3.1.3. Fase de ejecución 
+4.3.1.4. Fase de análisis 
+4.3.1.5. Procesos continuos 
+4.3.2 Decálogo para una publicidad no sexista 
+4.3.3 Checklist desestereotipador 
+4.3.4 Checklist según dimensiones de estereotipación del género femenino 
+4.3.5 Test del objeto sexual (TOS) 
+4.3.6 Matriz de stake holders (SH) 
+--- PÁGINA 5 --- ÍNDICE 
+5. EVALUACIÓN DE DIVERSIDAD E INCLUSIÓN EN LA COMUNICACIÓN 
+5.1. KPIs para la gestión de DEl en la comunicación 
+5.2. Cómo medir DEI en las comunicaciones de marketing 
+5.3. Vinculación de indicadores para incorporar el enfoque DEI 
+5.4. Criterios a considerar: 
+5.4.1. Paso a paso para indicadores de comunicación de marketing 
+5.4.2. Indicadores de procesos 
+6. GLOSARIO 
+6.1. Dimensión demográfica 
+6.2. Dimensión experiencial 
+6.3. Dimensión cognitiva 
+7. GUÍA RÁPIDA SOBRE LENGUAJE INCLUSIVO 
+8. REFERENCIAS 
+--- PÁGINA 7 --- INTRODUCCIÓN | 1 
+En General Motors la Diversidad, Equidad e Inclusión (DEI) ha tenido un largo recorrido a nivel mundial. 
+Año a año avanzamos en mayores niveles de fortalecimiento organizacional desde nuestro enfoque de DEI. 
+Una de las principales acciones fue la introducción de un nuevo comportamiento esperado de todas las personas que componen nuestros equipos: Ser Inclusivos. 
+Este comportamiento consiste en crear cada día momentos en los que se valoren las opiniones e ideas de fondo que puedan ser diferentes entre las personas. 
+También significa crear oportunidades en las que todos y todas puedan hablar y ser escuchados(as), tener un diálogo, alimentar la curiosidad y valorar las diferencias. 
+Queremos animar a todo nuestro equipo a vivir nuestros valores día a día y tener este comportamiento en todos los momentos que compartimos tanto interna como externamente. 
+Esta guía surge de la necesidad de avanzar en el aprendizaje sobre temas de DEl para para la comunicación. 
+Es así, que hemos diseñado meticulosamente estos materiales para ayudar a los líderes a entender y discutir mejor estos complejos asuntos con sus equipos, desde comprender el significado de cada palabra, hasta la toma de acciones concretas. 
+Reconocemos que aún tenemos mucho trabajo por delante para garantizar que nuestros equipos, nuestras comunicaciones y modos de trabajo, sean cada día más diversos, que refleje la equidad en la que creemos y permita crear una cultura de inclusión que sea realmente medible y experimentada por cada persona que se vincula con GM. 
+En este documento encontrarán los primeros pasos para comenzar a integrar la Diversidad, Equidad e Inclusión, hasta nuestros actos de manera responsable y con una visión de responsabilidad compartida, desde nuestro vocabulario hasta nuestros actos. 
+"Los últimos meses han sido difíciles y nuestro mundo ha cambiado. A medida que nos movemos por el mundo de una manera nueva, GM está más decidida que nunca a crear soluciones que conduzcan a un futuro mejor para todos. GM sigue enfocada en cumplir con nuestra visión de un mundo sin accidentes, sin emisiones y sin congestionamiento, mientras se convierte en LA EMPRESA MÁS INCLUSIVA DEL MUNDO". 
+--- PÁGINA 9 --- ENFOQUE DE DIVERSIDAD |2 E INCLUSION EN GM 
+Nuestras Palabras 
+Creemos que todo el mundo tiene la responsabilidad de alzar la voz ante los prejuicios y la injusticia presente en nuestro mundo. 
+Escucharemos y participaremos en conversaciones que eleven nuestra comprensión colectiva y que sirvan de base a nuestras acciones para hacer frente a la desigualdad. 
+No nos quedaremos callados(as). Aprovecharemos la voz de GM y de nuestras marcas para contribuir al diálogo que condene la injusticia e impulse la justicia y la inclusión. 
+Nuestras Obras 
+Nuestras palabras se verán respaldadas por los hechos. Nos basaremos en nuestras alianzas y buscaremos nuevas para defender y lograr la igualdad en la justicia social, la educación, la salud y las oportunidades económicas para todos y todas quienes trabajan dentro de la compañía. 
+Creemos que nuestros socios deben reflejar nuestros valores. Por lo tanto, aquellos que nos representan, hacen negocios con nosotros o deciden alinearse con nosotros deben tomar medidas para demostrar el mismo nivel de compromiso. 
+Nuestra Cultura 
+Nos haremos responsables de dar el ejemplo de diversidad e inclusión en el lugar de trabajo. 
+Crearemos un entorno seguro donde la diferencia y la diversidad sean respetadas, valoradas y reflejadas en la forma en que reclutamos, contratamos, desarrollamos y promovemos. 
+Aseguraremos un entorno de trabajo más transparente que sea seguro, respetuoso, libre de miedos, y promueva y entregue resultados medibles. 
+Oportunidades 
+Trabajar hacia nuestra aspiración de ser la empresa más inclusiva del mundo. 
+Ayudar a todos los(as) empleados(as) de todas las instalaciones de GM a comprender y poner en práctica cómo contribuyen a un entorno inclusivo. 
+Usar el poder de nuestra voz para abogar interna y externamente por un futuro con equidad e inclusión para todos y todas. 
+Aprovechar nuestras redes ERG para ayudar a atraer y retener empleados (as) e impulsar los resultados comerciales. 
+Desafíos 
+Garantizar una mezcla diversa de candidatos (as) calificados(as) para las vacantes, las oportunidades de desarrollo y ascensos. 
+Incrementar la representación y colocación de mujeres calificadas y personas de grupos tradicionalmente subrepresentados en nuestros procesos de planificación de sucesión. 
+Identificar y eliminar el potencial de sesgos que pueda existir dentro de nuestras prácticas comerciales y procesos de gestión del talento. 
+Hacernos responsables de un progreso significativo y transparente mientras trabajamos hacia nuestra visión. 
+--- PÁGINA 10 --- CONCEPTOS CLAVES 
+3.1. Dimensiones de la diversidad 
+3.2. DEI en marketing y publicidad 
+3.3. Sesgos inconscientes, estereotipos y prejuicios 
+3.4. Discriminación en publicidad 
+3.5. Estereotipos más recurrentes 
+3.6. Consecuencias de la discriminación 
+3.7. Sobre el enfoque de DEI y la marca 
+--- PÁGINA 11 --- CONCEPTOS CLAVES | 3.1 DIMENSIONES DE LA DIVERSIDAD 
+Cada día con más fuerza la sociedad en general exige una mayor responsabilidad por parte de las empresas. 
+En este contexto surge la visión de la gestión de la responsabilidad social corporativa, comprendiéndose su papel en relación con el entorno en el que desarrolla su actividad. 
+Lo que introdujo el enfoque de la gestión empresarial basada en la creación de valor para todos los grupos de interés con los que se relaciona. 
+Esta nueva narrativa ha abierto nuevas perspectivas, donde se comprende que la satisfacción simultánea de los intereses de todos los grupos genera modelos de negocio sostenibles. 
+El mundo cambia de manera cada vez más acelerada, por lo que es necesario abrir una conversación permanente que permita ir en búsqueda de nuevas formas de relacionamiento saludables para diseñar modelos que realmente sirvan a las necesidades de todos los grupos de interés vinculados a la empresa. 
+Actualmente, existen tres conceptos claves que deben integrarse a toda actividad interna y externa de la empresa: 
+DIVERSIDAD: Es la "mezcla" de rasgos y características que abarca toda la gama de diferencias y similitudes humanas, incluidas las físicas, cognitivas, relacionales, ocupacionales, sociales y de valores. 
+INCLUSIÓN: Es el resultado de un entorno en el que todas las personas sean tratadas de forma justa y respetuosa, tengan el mismo acceso a las oportunidades y recursos, donde sienten que pueden contribuir plenamente al éxito de la organización. 
+EQUIDAD: Consiste en reconocer que no todos y todas tienen el mismo acceso a las oportunidades. 
+Intenta restablecer el equilibrio tratando a las personas de manera diferente según sus necesidades, desarrollando prácticas que permitan su incorporación y accesibilidad en todos los ámbitos de la vida humana. 
+La diversidad se refiere a los rasgos y características que hacen únicas a las personas, mientras que la inclusión se refiere a los comportamientos y normas sociales que garantizan que las personas se sientan bienvenidas. 
+--- PÁGINA 12 --- CONCEPTOS CLAVES | 3.1 DIMENSIONES DE LA DIVERSIDAD 
+Estos tres conceptos no son efectivos si los abordamos por separado. 
+Podemos contar con una amplia diversidad en la composición de nuestro talento, de nuestros clientes y de nuestros aliados, pero sin la creación de una cultura inclusiva con cada uno de estos grupos no podremos beneficiarnos de su valor. 
+La inclusión es lo que permitirá que las personas (empleados (as), clientes y aliados) se sientan bienvenidos(as), garantiza un relacionamiento auténtico a través de la expresión de su propia individualidad, demuestra nuestro aprecio por sus aportes, y trabajar en colaboración. 
+Importancia de la DEI 
+La diversidad, la equidad y la inclusión liberan el poder de todo nuestro talento, permitiéndonos trabajar juntos para resolver estos complejos problemas. 
+La investigación demuestra una y otra vez que los equipos diversos e inclusivos son más innovadores, toman mejores decisiones y superan a sus pares. 
+Dimensiones de diversidad 
+La diversidad se expresa en rasgos visibles y otros no visibles en personas o grupos como pueden ser: 
+Rasgos visibles: Color de piel, Rasgos físicos, Comportamientos, Habilidades físicas, Edad, Tamaño/tipo de cuerpo
+Rasgos no visibles: Situación socioeconómica, Orientación sexual, Origen étnico, Nivel en la organización, Personalidad, Cultura, Valores, Estilos de pensamiento, Estilos de comunicación
+Para una mejor comprensión de las distintas expresiones de la diversidad, la dividiremos en tres grandes grupos: 
+DIVERSIDAD DEMOGRÁFICA: SEXO, DISCAPACIDAD, EDAD y LGBTIQ+ 
+DIVERSIDAD EXPERIENCIAL: EXPERIENCIA EN LA EMPRESA, DIVERSIDAD EN FORMACIÓN y DIVERSIDAD CULTURAL 
+DIVERSIDAD COGNITIVA: RESOLUCIÓN DE PROBLEMAS, DIVERSIDAD DE PERSONALIDADES y DIVERSIDAD DE LIDERAZGO 
+--- PÁGINA 13 --- CONCEPTOS CLAVES | 3.2 DEI EN MARKETING Y PUBLICIDAD 
+Cuando hablamos de Diversidad e Inclusión en la publicidad y marketing emergen otros conceptos claves como son los estereotipos, los sesgos inconscientes y los prejuicios. En todas las comunicaciones, incluidas las de marketing, intentamos relacionarnos de un modo u otro con la realidad, nombrándola, reflejándola, interpretando o reflexionando e incluso proponiendo nuevas realidades. 
+Cuando nos relacionamos con nuestra realidad se activan distintos procesos mentales y cognitivos que nos permiten procesarla. Pero la realidad generalmente es muy compleja, porque nos provee de mucha información, en términos de informática, estamos expuestos diariamente a miles y miles de bytes de información. Para que nuestro cerebro pueda procesar toda esta información generamos atajos mentales. 
+En las distintas formas de comunicación estos atajos mentales, así como estereotipos o prejuicios sobre personas o grupos, se manifiestan de forma latente. Por lo que debemos hacernos conscientes de cómo estos sesgos se traslucen, para comprender si contribuyen o bloquean la incorporación de nuestro enfoque de DEI. 
+Cuando no trabajamos con un enfoque de DEl perdemos oportunidades: por falta de profundidad en el análisis de las decisiones de negocios que hacemos, errores en las alianzas, prácticas, forma de comunicarnos y relacionarnos, en la definición de estrategias, indicadores y metas, en la aproximación a nuestros clientes, entre otras. 
+--- PÁGINA 14 --- CONCEPTOS CLAVES | 3.3 SESGOS INCONSCIENTES, ESTEREOTIPOS Y PREJUCIOS 
+Según nos explica, la Red Empresarial por la Diversidad e Inclusión (REDI), los sesgos inconscientes son fenómenos cognitivos individuales que se producen en el cerebro humano como respuesta a la necesidad de procesar cantidades enormes de información. Son atajos que el cerebro utiliza como mecanismos para ahorrar tiempo y esfuerzo para realizar evaluaciones racionales de toda la información disponible. 
+A pesar de su utilidad, sin la que los seres humanos no hubiésemos podido evolucionar a lo que somos ahora, los sesgos inconscientes pueden llevarnos a apreciaciones erróneas y discriminatorias. 
+Por otro lado, los estereotipos, a diferencia de los sesgos que son inconscientes e individuales, son generalizaciones conscientes y compartidas. Los estereotipos pueden ser neutros (los chilenos tienen una estatura promedio) o positivos (los chilenos son amables). Como nos comenta REDI, el problema no es que sean negativos, es que son falsos, por ser generalizaciones. 
+A su vez, define el prejuicio como un juicio u opinión que se forma sin el conocimiento necesario o contacto real respecto a quien o a lo que se forma. El prejuicio es generalmente negativo, no necesita evidencias y es la antesala de la discriminación. Un ejemplo puede ser no considerar a un hombre gay como representación de liderazgo, porque "no mostraría suficiente carácter". 
+Como nos explican, sesgos, estereotipos y prejuicios, aunque sean mecanismos diferentes, se mezclan y funcionan conjuntamente en el día a día, provocando distinción, exclusión, restricción o preferencia. 
+El desafío está en identificarlos y trabajar para eliminar aquellos que nos conduzcan a decisiones o representaciones de personas/grupos equivocadas. Les invitamos a incluir herramientas y acciones destinadas a mitigar los sesgos inconscientes y evitar estereotipos y prejuicios para una adecuada comunicación, lo contrario presupone una perdida en nuestra capacidad de innovación y compromiso. 
+Reconocer las etiquetas discriminatorias, que hemos construido de manera inconsciente durante nuestra vida, permitirá que la diversidad e inclusión prosperen, aportando a la construcción de sociedades sostenibles y desde los negocios, mejorar los resultados. 
+--- PÁGINA 15 --- CONCEPTOS CLAVES | 3.4 DISCRIMINACIÓN EN PUBLICIDAD 
+Existen distintas formas en que los prejuicios y estereotipos crean expresiones discriminatorias hacia ciertos grupos. Revisemos algunas: 
+Sexismo, según el Instituto Vasco de la Mujer (2013), es un sistema en el que se considera que hombres y mujeres son diferentes y que, por tanto, asigna esferas, actitudes, habilidades, a un y a otro según sexo. Esos universos masculino y femenino se consideran antagónicos y complementarios, perpetuando una jerarquía implícita en la que lo masculino goza de mayor prestigio social que lo femenino. 
+Cosificación y objetivación, ocurre cuando se ve a una persona solamente como un objeto sexual, por lo que se separan los atributos sexuales y la belleza física del resto de la personalidad y existencia como persona/individuo, y se reducen los atributos a instrumentos de placer para otro, lo que deriva en la "sexualización". 
+La Asociación Americana de Psicología (2007) estipula que la sexualización ocurre "sexualización": 
+• "Cuando el valor de una persona sólo proviene de su atractivo o comportamiento sexual, con exclusión de otras características. 
+• Cuando una persona se somete a un estándar que equipara ser atractivo con ser sexy. 
+• Cuando una persona se objetiva sexualmente, es decir, se convierte en una cosa para el uso sexual de los demás. 
+• Cuando la sexualidad es inapropiadamente impuesta a una persona." 
+El Observatorio Andaluz de la publicidad no sexista indica: "Presentar el cuerpo femenino como objeto, esto es, como valor añadido a los atributos de un determinado producto: Anuncios publicitarios que recurren al cuerpo de la mujer en su totalidad o a determinadas partes del mismo como objeto desvinculado del producto que se pretende publicitar con el fin de atraer la atención de su potencial clientela." 
+--- PÁGINA 16 --- CONCEPTOS CLAVES | 3.5 ESTEREOTIPOS MÁS RECURRENTES 
+Entre los estereotipos más comunes se encuentran los asociados a los atributos de belleza que las personas deben cumplir según la sociedad en algún momento específico, por lo que son una construcción social que expresa lo que se considera bello o no. Estos envían un mensaje poderoso a las personas indicándoles qué y cómo se esperan que sean. 
+Los estereotipos de belleza están asociados a los estereotipos de género, según la Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos, son una opinión o prejuicio generalizado acerca de atributos o características que hombres y mujeres poseen o deberían poseer o de las funciones y roles sociales que ambos desempeñan o deberían desempeñar. Como, por ejemplo, las mujeres son cuidadoras y los hombres proveedores. 
+Los principales agentes socializadores de los estereotipos y prejuicios son: la familia, las instituciones educativas, las amistades o con quienes nos relacionamos y los medios de comunicación. 
+--- PÁGINA 17 --- CONCEPTOS CLAVES | 3.6 CONSECUENCIAS DE LA DISCRIMINACIÓN 
+La persecución de estándares de belleza o el cumplimiento irrestricto de estereotipos de género contienen un peligro inminente, que es la creación de un ambiente donde la violencia puede ser ejercida por aquellas personas o grupos que se consideren garantes o defensores del estatus quo que esta visión entrega sobre la sociedad y las personas. 
+La discriminación puede tener distintas manifestaciones y una de ellas es la violencia de género. La violencia de género puede tener expresiones visibles y otras no visibles. 
+VIOLENCIA DE GÉNERO 
+FORMAS EXPLÍCITAS (VISIBLE): ASESINATO, AGRESIÓN FÍSICA, VIOLACIÓN, ABUSO SEXUAL, AMENAZAR, GRITAR e INSULTAR.
+FORMAS SUTILES (INVISIBLE): HUMILLAR, DESVALORIZAR, IGNORAR, DESPRECIAR, CHANTAJE EMOCIONAL, CULPABILIZAR, HUMOR SEXISTA, PUBLICIDAD SEXISTA, INVISIBILIZACIÓN, LENGUAJE SEXISTA, ANULACIÓN y MICROMACHISMO.
+Fuentes: Amnistía Internacional 
+La violencia simbólica se caracteriza por ser una violencia invisible, soterrada, subyacente, implícita o subterránea, la cual esconde la base de las relaciones de fuerza o de poder que se da entre las relaciones de personas, instituciones u otras formas de organización social. Ese perpetúa a través de una relación social asimétrica donde el "dominador" ejerce violencia indirecta y no directa en contra de los "dominados", los cuales no son conscientes de estas, por lo cual son "cómplices de la dominación a la que están sometidos" Bourdieu, P. 1994. 
+--- PÁGINA 18 --- CONCEPTOS CLAVES | 3.7 SOBRE EL ENFOQUE DE DEI Y LA MARCA 
+Incorporar un enfoque de Diversidad, Equidad e Inclusión no es un proceso que logremos de manera inmediata, requiere entrenamiento, trabajo en equipo y sobre todo nuestro firme compromiso de cuestionarnos constantemente. 
+Es importante recordar que incorporar un enfoque de DEI no es una fórmula, necesitamos ejercitarnos para encontrar la mejor manera de aplicar estas recomendaciones. En algunos casos nos llevará a desarrollar una aproximación, en otras nos llevará por un camino muy distinto. Ser sensibles al contexto donde nuestra comunicación tendrá cabida es fundamental, lo que puede ser adecuado en un tiempo y espacio, no necesariamente lo puede ser en otro. 
+Una marca no es sólo lo que comunica. La integran distintas dimensiones que relacionadas entre sí hacen el todo. Desde esta concepción nos aproximamos para concebir cómo integrar un enfoque en DEI a la marca, comprendiendo que un abordaje comprensivo es lo que nos permitirá sostener la consistencia y coherencia, donde el enfoque de DEI estará realmente alineado al propósito de la compañía, sus objetivos estratégicos y el lugar que quiere tener entre sus grupos de interés, con autenticidad. 
+Por esta razón abordaremos las recomendaciones desde los tres principales pilares de acción, que hemos identificado son relevantes en la búsqueda de integrar un enfoque de DEl de manera exitosa: 
+INTERNO 
+PROCESOS 
+GRUPOS DE INTERÉS 
+--- PÁGINA 19 --- CONCEPTOS CLAVES | 3.7 SOBRE EL ENFOQUE DE DEI Y LA MARCA 
+INTERNO 
+Garantizar un equipo de trabajo diverso en sí mismo (demográfica, experiencial, cognitiva), lo que conllevará a contar con diversidad de pensamiento, impulsando la creatividad e innovación de lo que hacemos. 
+Procurar un lugar de trabajo inclusivo. Eso implica crear, cultivar y preservar una cultura donde cada persona se sienta valorada por quien es, pudiendo desplegar su potencial sin restricciones del entorno, sin necesidad de esconderse ni construir caretas. Una cultura de respeto a las personas y a sus ideas permitirá que estas florezcan. Si alentamos las voces de nuestros equipos podremos poner en valor la diversidad de pensamiento que hay en ella. 
+ACCIÓN 
+Mapea tu equipo de trabajo de acuerdo con las dimensiones de la diversidad. 
+Analiza la tendencia e identifica cuáles son los mayores activos del equipo y qué otras miradas necesitan para expandir la que ya poseen. 
+Puedes recurrir a aliados internos y/o externos para integrar otras miradas. 
+--- PÁGINA 20 --- CONCEPTOS CLAVES | 3.7 SOBRE EL ENFOQUE DE DEI Y LA MARCA 
+PROCESOS 
+En nuestro día a día se hace muy difícil identificar fases, flujos de trabajo y relacionamiento que llevamos a cabo en el desarrollo de nuestras tareas. 
+Cuando hablamos de DEI, no sólo el qué es relevante. Por supuesto es necesario tener claridad de nuestros objetivos de comunicación, quiénes son nuestras audiencias, y qué esperamos de ese punto de contacto. 
+ACCIÓN 
+Antes de iniciar un proceso, reserva un espacio con el equipo que les permita reflexionar el flujo de cómo se realiza el proceso. 
+Identifiquen los nudos que normalmente se encuentran, dónde fluye mejor el proceso, y en cuáles momentos puede ser inestable el progreso de la acción. 
+Ahora, compartan juntos ideas que permitan abordar cada uno de los puntos antes identificados, de manera de impulsar una mayor eficiencia en los resultados desde una mirada plural. 
+--- PÁGINA 21 --- CONCEPTOS CLAVES | 3.7 SOBRE EL ENFOQUE DE DEI Y LA MARCA 
+GRUPOS DE INTERÉS 
+Nada de lo que hacemos es un proceso aislado. Requerimos de la mirada de otras personas para poder reflejar el mundo que nos rodea. 
+Las personas, grupos y/o organizaciones que requerimos incluir en el proceso pueden encontrarse al interior de la empresa, como también pueden corresponder a aliados habituales u a otros con los que nunca hemos trabajado, pero que según lo que estemos desarrollando sería adecuado incorporar. 
+El relacionamiento con algunos o varios grupos de interés no tienen por qué presentarse de inicio a fin en el desarrollo de una acción o iniciativa. Tal vez sólo intervienen en alguna parte puntual del proceso. Por lo que será importante identificar el propósito de su participación para poder comprender cuándo deben intervenir y qué esperamos de la relación. 
+ACCIÓN 
+Revisa la sección sobre stakeholders, mapea en cada parte de los procesos quién o quiénes serán los más adecuados para robustecer la acción o iniciativa a desarrollar y definir las estrategias a abordar con cada uno. 
+--- PÁGINA 22 --- CONCEPTOS CLAVES | 3.7 SOBRE EL ENFOQUE DE DEI Y LA MARCA 
+Incorporar un enfoque de DEI debe hacerse desde la integración genuina de nuestro propósito, de esa manera no sólo podremos comprender mejor a nuestras audiencias, sino que podremos representarlas de manera más justa. Esto ayudará a nuestra marca a diferenciarse, impulsando los cambios que queremos. 
+El estudio de McCann Worldgroup sobre "La verdad acerca de la diversidad" muestra que las marcas tienen una oportunidad increíble de marcar una diferencia significativa en la vida de sus consumidores. Pero cuando se trata de lograr un impacto a través de iniciativas de diversidad, las marcas necesitan ir más allá de marcar casillas para aprovechar realmente la diversidad como una fuerza de innovación. 
+Lo que queda claramente reflejado en el cuadro abajo es el amplio espectro de acciones y sus impactos que puede llevar a cabo una marca con cada una de sus acciones de comunicación. 
+EL ESPECTRO DEL IMPACTO DE LAS MARCAS 
+Contraproducente – Ofendiendo
+Falta de conocimiento – Omitiendo
+Marcando casillas – Diciendo
+Reflejando la realidad – Mostrando
+Impulsando la innovación - Viviendo
+Fuente: Truth about Diversity. McCann Worldgroup. 2020 
+El equilibrio que posean nuestros tres pilares entre sí serán la clave para avanzar en integrar el enfoque de DEI, lo que nos permitirá construir el camino hasta "vivir" la Diversidad e Inclusión de manera que se convierta desde la coherencia y consistencia en atributos de la marca, lo que nos permitirá la solidez necesaria para transitar un camino de real relevancia en la industria y entre todos nuestros grupos de interés. 
+--- PÁGINA 23 --- DEL DECIR AL HACER 
+4.1. Sobre los grupos de interés 
+4.1.1. Herramientas para la identificación de SH 
+4.2. Sobre la incorporación de DEI en los procesos 
+4.3. Caja de herramientas 
+4.3.1. Checklist de procesos con enfoque en DEI 
+4.3.1.1. Fase de planificación 
+4.3.1.2. Fase de desarrollo 
+4.3.1.3. Fase de ejecución 
+4.3.1.4. Fase de análisis 
+4.3.1.5. Procesos continuos 
+4.3.2 Decálogo para una publicidad no sexista 
+4.3.3 Checklist desestereotipador 
+4.3.4 Checklist según dimensiones de estereotipación del género femenino 
+4.3.5 Test del objeto sexual (TOS) 
+4.3.6 Matriz de SH 
+--- PÁGINA 24 --- DEL DECIR AL HACER | 4.1 SOBRE LOS GRUPOS DE INTERÉS 
+Relevancia de conocer y gestionar los Stakeholders 
+En la gestión de iniciativas de Diversidad, Equidad e Inclusión, la gestión de los stakeholders es fundamental para alcanzar el éxito. Un adecuado análisis de identificación de involucrados, así como la definición de sus niveles de interés e influencia, marcarán el punto de partida para desarrollar estrategias que posibiliten obtener el apoyo requerido para alcanzar los objetivos de la iniciativa. 
+A continuación, listamos algunos de sus beneficios:
+Recopilar información esencial para alcanzar nuestras metas
+Nos proporciona información relevante que puede ayudar a mantener nuestras acciones en marcha hacia el éxito. 
+Nos permite trazar y establecer el nivel adecuado de comunicación con todas las partes relacionadas con la iniciativa o acción a realizar. 
+Un reconocimiento exhaustivo de las partes interesadas nos preparará para cumplir con nuestros objetivos o prepararnos mejor para los posibles contratiempos que puedan surgir. 
+Ampliar u obtener recursos necesarios
+Stakeholders bien identificados e involucrados permite fortalecer el compromiso con las metas, por lo que hace más proclive que se involucren en garantizar la disponibilidad de las personas, herramientas y recursos necesarios para conseguir los buenos resultados esperados. 
+Construcción de confianza interinstitucional
+Un adecuado involucramiento de las partes interesadas durante todo el proceso de las acciones permite la creación de confianza entre las partes, lo que incentiva el apoyo en las acciones definidas, pero también en las futuras. 
+El intercambio y retroalimentación constante de las partes interesadas deriva en un feedback positivo. Lo que resultará en una rápida aceptación de acciones o iniciativas en el futuro. 
+--- PÁGINA 25 --- DEL DECIR AL HACER | 4.1.1 HERRAMIENTAS PARA IDENTIFICACIÓN DE SH Utilizaremos y desarrollaremos una matriz de stakeholders que nos permitirá: recopilar, clasificar, analizar y jerarquizar de manera sistemática información cualitativa y cuantitativa referente a todas aquellas personas, grupos, instituciones u organizaciones involucradas o interesadas. 
+Esta herramienta nos mostrará información relevante sobre las partes interesadas y sobre como pueden influir debido a la posición que ocupa, el nivel de interés y poder que ejercen sobre el éxito de la iniciativa, y las estrategias que se llevarán a cabo para gestionar de manera eficaz y eficiente sus expectativas a lo largo de la ejecución y conclusión de las acciones. 
+Sin embargo, hay dos aspectos importantes que resaltar sobre el proceso de análisis y construcción de esta matriz. En primer lugar, es que este proceso es algo subjetivo y depende mucho de la cantidad y calidad de la información con que se cuente de los stakeholders. En segundo lugar, es el hecho de que la información no es estática, pues a medida que avanza la iniciativa, nuevas partes interesadas pueden surgir, así como otros que inicialmente fueron identificados pueden dejar de ser relevantes. 
+Será responsabilidad del equipo que gestiona la iniciativa mantener actualizada ésta matriz de identificación y análisis, con el propósito de reconocer a tiempo nuevos stakeholders y desarrollar estrategias que gestionen de manera adecuada sus intereses respecto a las acciones. 
+Para nuestro plan de DEI los SH habituales en la marca no son necesariamente los que debemos incorporar. Debemos identificar aquellas partes interesadas internas y/o externas que se vinculen o se afecten según la temática a tratar (igualdad de género, diversidad sexual, migración, discapacidad, etc). Debemos ampliar nuestro rango de búsqueda de SH, donde debemos tomar en cuenta a organizaciones de la sociedad civil, comunidades y otros. 
+INTERNO
+Clientes: Otras áreas o unidades de negocio.
+Colaboradores/Gerencia: Directas, Indirectas, Sindicatos, Liderazgo organizacional.
+Directorio: Accionistas, Inversionistas.
+Proveedores: Funcionales.
+EXTERNO
+Clientes: Consumidores, Compradores.
+Colaboradores/Gerencia: Grupos de presión, Líderes de opinión, Instituciones relevantes.
+Directorio: Asociaciones empresariales, Industria, Relacionamiento comunitario.
+Proveedores: Instituciones financieras, Servicios externos.
+Para revisar el paso a paso de construcción de matriz de SH revisar en la sección Caja de herramientas. 
+--- PÁGINA 26 --- DEL DECIR AL HACER | 4.1.1 HERRAMIENTAS PARA IDENTIFICACIÓN DE SH Estrategias para cada SH Las estrategias deberán considerarse según el tipo de SH, los objetivos en común y el nivel de interés sobre la iniciativa. A continuación algunas de las estrategias a desarrollar de acuerdo al mapa de SH: 
+MATRIZ INTERÉS VS INFLUENCIA
+1. Involucrar (Mucho interés / Mucha influencia):stakeholders con los que debemos conectar y hacer el mayor esfuerzo para lograr INVOLUCRARLOS con nuestras acciones y comunicación. 
+2. Reportar (Mucho interés / Poca influencia): tienen consideración por lo que hacemos, están especialmente sensibilizados, nos conocen, pero lamentablemente carecen del poder suficiente como para ofrecernos un impulso o aceleración. Eso sí, normalmente nos ofrece un feedback que enriquecerá nuestra idea. Deberemos REPORTALES información sobre nuestra evolución. 
+3. Informar (Poco interés / Mucha influencia): tienen potencial por las posibilidades, red de contactos, financiación, poder de convocatoria, etc., que poseen, pero todavía muestran poco interés por lo que estamos haciendo. Nos tendremos que esforzar para que tengan una buena percepción de las acciones. Deberemos INFORMARLES con algún pretexto (lanzamiento, actualización, innovación, etc.). 
+4. Monitorear (Poco interés / Poca influencia): simplemente tendremos puesto el «radar» para poder MONITOREAR, para captar todos sus movimientos y los posibles cambios de actitud respecto a nuestras acciones y comunicación. 
+Las estrategias que el equipo identifique de acuerdo con la posición de los stakeholders en la matriz estarán encaminadas a incrementar el apoyo y soporte a la iniciativa y minimizar el impacto negativo sobre éste. 
+--- PÁGINA 27 --- DEL DECIR AL HACER | 4.2 SOBRE LA INCORPORACIÓN DE DEI EN LOS PROCESOS Para iniciar nuestra exploración de los procesos en el desarrollo de nuestras actividades de comunicación de marketing incorporaremos tres claves desde las cuales evaluaremos nuestro progreso en la incorporación de un enfoque inclusivo. 
+PRIMERA CLAVE: Inclusión con un propósito La World Federation of Advertisers (WFA) nos hace un recordatorio sobre los estadios desde los que podemos desarrollar nuestra comunicación. Debemos tener este marco referencial presente en todas las fases de cada proceso. 
+Inclusión con un propósito: Conectar de verdad el propósito de la marca a una acción significativa, a menudo con los colaboradores y una narración deliberada. 
+Representación positiva: Empezar a abordar de manera justa los diferentes puntos de vista, reflejar los diferentes consumidores y responder a las diferentes necesidades. 
+Estereotipos básicos: Incluir grupos diversos, pero trabajar con prejuicios y estereotipos preexistentes. 
+Exclusión: No tener en cuenta la diversidad en el marketing. 
+Fuente: Diversidad y representación: Guía sobre posibles áreas de sesgo en el proceso creativo. WFA. 2021 
+--- PÁGINA 28 --- DEL DECIR AL HACER | 4.2 SOBRE LA INCORPORACIÓN DE DEI EN LOS PROCESOS SEGUNDA CLAVE: El marco de las 3Ps Unstereotype Alliance 
+El marco de las 3P que plantea Unstereotype Alliance nos proporciona un conjunto de directrices que pueden aplicarse fácilmente a todas las comunicaciones de marketing para crear representaciones progresistas de todas las personas. 
+Las sumamos como una clave en que debe tomarse en cuenta en cada paso del proceso de desarrollo de la comunicación, desde las descripciones de las audiencias de la marca hasta el briefing creativo, el briefing de medios, el briefing de investigación, el briefing de casting, la selección del equipo creativo, la aprobación del casting, las pruebas previas y posteriores a la comunicación, el tratamiento de quien dirige, la pre y postproducción y la selección de medios. 
+Unstereotype Alliance nos entrega un marco construido para que sea aplicable a nivel mundial y siempre relevante, pero como la conversación cultural se encuentra en constante cambio, por lo que la forma de aplicar y poner en práctica estas directrices cambiará y se desarrollará con el tiempo. 
+ACCIÓN: Reflexionar sobre la cultura local y aplicar este marco de acuerdo con ella. 
+PRESENCIA
+Se trata de quién aparece en la comunicación.
+Todavía se da el caso de que muchos tipos de personas tienden a no aparecer en las comunicaciones en absoluto; y ver tu propia imagen totalmente borrada en la cultura que te rodea te puede hacer sentir profundamente marginalizado(a).
+PERSPECTIVA
+Se trata de quién protagoniza la historia.
+¿Quién parece dirigir la acción? Es decir, ¿quién es la persona cuya perspectiva está representando?
+PERSONALIDAD
+Se trata de la profundidad del personaje.
+Mostrar personajes con personalidades tridimensionales que se sientan auténticos: divertidos(as), cariñosos (as), fuertes, reflexivos(as) y respetados(as).
+Fuente: Unstereotype Marketing Communications Playbook. Unsteotype Alliance. 2020 Edition 
+--- PÁGINA 29 --- DEL DECIR AL HACER | 4.2 SOBRE LA INCORPORACIÓN DE DEI EN LOS PROCESOS 
+TERCERA CLAVE: Diseño Inclusivo Como habíamos indicado al inicio, al incorporar un enfoque de DEI no sólo es importante el qué o el quién, sino también el cómo. Por ello, tomaremos y adaptaremos a los fines de nuestra guía los principios de Diseño Inclusivo desarrollado por Microsoft. 
+El diseño inclusivo es una metodología que busca conectarse y aprovechar toda la diversidad humana. Una de sus lecciones más poderosas es que nos invita a descubrir que significa incluir y aprender de personas con una serie de perspectivas distintas. 
+Para iniciar su comprensión revisemos dos de sus principales conceptos: 
+Diseño inclusivo: es un método que nos permite diseñar desde una diversidad de formas para que todas las participen en una experiencia con sentido de pertenencia. En ocasiones, sin darnos cuenta algunas personas quedan excluidas de la acción que desarrollamos. Es vital, entender por qué y cómo se excluye a las personas, esto nos permitirá resignificar la acción desde distintas perspectivas. 
+Accesibilidad: es un atributo como, una cualidad que permite que la experiencia esté abierta a todas las personas. Un diseño inclusivo puede dar pie a alcanzar la accesibilidad, pero buscar generar accesibilidad no necesariamente involucra incorporar un diseño inclusivo. Por esta razón, ambas deben trabajar juntas. 
+Desde esta perspectiva la revisión de nuestras acciones, ya sean de diseño de un producto o de comunicación de marketing deben incorporar las tres preguntas que se hacen en este modelo: 
+¿Para quién diseñamos la acción o iniciativa? 
+Para lograr conectar de manera auténtica con nuestras audiencias no sólo debemos conocerlas, sino estar conscientes desde donde las analizamos y creamos el contenido para ellas. El diseño inclusivo nos advierte que si utilizamos nuestras propias habilidades y prejuicios (...) como punto de partida para desarrollar cualquier diseño, acabaremos con productos diseñados para personas de ciertas características específicas. 
+--- PÁGINA 30 --- DEL DECIR AL HACER | 4.2 SOBRE LA INCORPORACIÓN DE DEI EN LOS PROCESOS 
+¿Quién queda excluido(a) de la acción o iniciativa? 
+Tendemos a generar puntos de contacto o interacción con lo que se considera la norma. Pero cuando hablamos de personas, diseñar una acción sólo dirigido a quienes son el promedio en alguna situación o circunstancias, significa dejar fuera a muchas otras personas. No podemos asumir que todo aplica para todas las personas, en este caso estaremos ignorando gran parte de los seres humanos, lo que disminuye nuestro potencial de marca. 
+¿Por qué es importante la acción o iniciativa? 
+Aunque ya hemos explorado las ventajas de integrar un enfoque de DEI. El diseño para la inclusión nos recuerda que no sólo abre nuestros productos, acciones y experiencias a más personas con una mayor variedad de capacidades. Sino que también nos permite reflejar cómo son las personas realmente. Nuestras decisiones en cada parte de los procesos pueden aumentar o reducir barreras a la participación en la sociedad. 
+Este modelo nos deja tres acciones fundamentales: 
+RECONOCER LA EXCLUSIÓN
+La exclusión se produce cuando resolvemos los problemas utilizando visiones parciales. Debemos ampliar las visiones y buscar las exclusiones para convertirlas en oportunidades para crear nuevas ideas y diseños inclusivos.
+RESOLVER PARA UNO, EXTENDER A MUCHOS
+Todo el mundo tiene capacidades, y límites a esas capacidades. Refleja la diversidad de capacidades en tus interacciones con la audiencia.
+APRENDER DE LA DIVERSIDAD
+El diseño inclusivo coloca a las personas en el centro desde el principio del proceso, y esas perspectivas frescas y diversas son la clave de la verdadera visión.
+Fuente: Inclusive Microsoft Design. 
+--- PÁGINA 31 --- DEL DECIR AL HACER | 4.3 CAJA DE HERRAMIENTAS CHECKLIST DE PROCESOS CON ENFOQUE EN DEI | 4.3.1 
+A manera didáctica organizaremos los procesos que intervienen en las distintas acciones de la comunicación de marketing en cuatro fases: planificación, desarrollo, ejecución y análisis. Junto a procesos que se desarrollan de manera continua y transversal en todas las demás. 
+Esta división de los procesos nos permitirá desagregar las recomendaciones necesarias para abordar un enfoque inclusivo desde una perspectiva más amplia: 
+FASE DE PLANIFICACIÓN:
+Objetivos estratégicos de la marca
+Información y data sobre audiencia
+Briefing creativo
+Selección de stakeholders
+FASE DE DESARROLLO:
+Desarrollo creativo
+Testeos previos
+Producción
+Postproducción
+Plan de medios
+FASE DE EJECUCIÓN:
+Lanzamiento
+FASE DE ANÁLISIS:
+Evaluación
+PROCESOS CONTINUOS:
+Comunicaciones, documentos, relacionamiento
+Utiliza las siguientes fichas para incorporar acciones que integren nuestro enfoque de DEI en todos nuestros procesos. 
+--- PÁGINA 32 --- CHECKLIST DE PROCESOS CON ENFOQUE EN DEI CHEVROLET
+--- PÁGINA 33 --- DEL DECIR AL HACER | 4.3.1 CHECKLIST DE PROCESOS CON ENFOQUE EN DEI 
+FASE DE PLANIFICACIÓN | 4.3.1.1
+ETAPA: OBJETIVOS ESTRATÉGICOS DE LA MARCA
+FOCO: Analizar los objetivos estratégicos considerando si la marca está abordando todas las oportunidades de crecimiento: mercados, consumidores, alianzas, etc.
+VERIFICA: ASPECTOS A CONSIDERAR
+PILAR: INTERNO
+Composición de la plantilla del equipo que desarrolla los objetivos.
+Definición de público objetivo según dimensiones de diversidad relevantes.
+PILAR: PROCESOS
+Identificar los grupos excluidos, que puede ser potencialmente atractivos para abordar.
+Analizar si la comunicación está alineada de manera auténtica al compromiso.
+Evaluar si el capital de marca permite reflejar a las audiencias como estas realmente son.
+PILAR: GRUPOS DE INTERÉS
+Integración de unidades, departamentos o áreas internas y/o aliados o grupos de interés externos que puedan dar retroalimentación para fortalecer los objetivos estratégicos. CHEVROLET
+--- PÁGINA 34 --- DEL DECIR AL HACER | 4.3.1 CHECKLIST DE PROCESOS CON ENFOQUE EN DEI 
+FASE DE PLANIFICACIÓN | 4.3.1.1
+ETAPA: INFORMACIÓN Y DATA SOBRE LA AUDIENCIA FOCO: Las estrategias de marketing deben estar basadas en un conocimiento profundo de la categoría, consumidores, cultura, conexiones que aseguren que podamos reflejar la sociedad en la que operamos de la mejor manera. Contrastar nuestras percepciones sobre los grupos a abordar nos permite mitigar nuestros sesgos inconscientes, para comprenderles más ampliamente.
+VERIFICA: ASPECTOS A CONSIDERAR
+PILAR: INTERNO
+Composición de la plantilla del equipo que desarrolla la investigación.
+Concientizar estereotipos, sesgos y/o prejuicios del equipo para poder comprenderlas.
+Identificar la variedad de fuentes de información utilizadas, para la verificación de posibles sesgos en la información.
+PILAR: PROCESOS
+Identificar los grupos excluidos, que puede ser potencialmente atractivo para abordar.
+Garantizar que la información recabada profundiza en las percepciones y no asume grandes postulados.
+Asegurar la multiplicidad de perfiles de las audiencias.
+Incorporar el contexto cultural en el que viven las distintas audiencias.
+Levantar los estereotipos que puedan afectar a las audiencias objetivo.
+PILAR: GRUPOS DE INTERÉS
+Incorporar expertos que asesoren sobre las percepciones que las distintas audiencias pueden tener de la comunicación a desarrollar. CHEVROLET
+--- PÁGINA 35 --- DEL DECIR AL HACER | 4.3.1 CHECKLIST DE PROCESOS CON ENFOQUE EN DEI 
+FASE DE PLANIFICACIÓN | 4.3.1.1
+ETAPA: BRIEFING CREATIVO FOCO: Como en la etapa anterior, podemos traspasar preconcepciones, sesgos inconscientes o estereotipos en el brief. Debemos buscar una visión y representación profunda que genere los estímulos adecuados.
+VERIFICA: ASPECTOS A CONSIDERAR
+PILAR: INTERNO
+Composición de la plantilla del equipo que desarrolla y define el brief.
+Concientizar estereotipos, sesgos y/o prejuicios del equipo para poder comprenderlas.
+Identificar si el brief explicita la importancia de la representación de la audiencia.
+PILAR: PROCESOS
+Identificar qué puntos de contacto pueden ser innovadores para abordar a las audiencias.
+Identificar si estamos perpetuando sesgos o estereotipos sobre la audiencia objetivo/Identificar si la definición del público objetivo es un estereotipo.
+Explorar si los procesos de aprobación del producto final de la etapa consideran posibles sesgos.
+PILAR: GRUPOS DE INTERÉS
+Incorporar expertos que asesoren sobre la idoneidad del enfoque y estímulos desarrollado en el brief. (internos y/o externos).
+--- PÁGINA 36 --- DEL DECIR AL HACER | 4.3.1 CHECKLIST DE PROCESOS CON ENFOQUE EN DEI
+ FASE DE PLANIFICACIÓN | 4.3.1.1
+ETAPA: SELECCIÓN DE STAKEHOLDERS
+ FOCO: Identificar si los distintos grupos de interés comparten los valores y compromisos de la compañía sobre Diversidad, Equidad e Inclusión.
+VERIFICA: ASPECTOS A CONSIDERAR
+PILAR: INTERNO
+Analizar desde un enfoque de diversidad los proveedores y otros actores en la cadena de suministros.
+Evaluar cómo podemos construir una base de proveedores más diversa.
+--- PÁGINA 37 --- DEL DECIR AL HACER | 4.3.1 CHECKLIST DE PROCESOS CON ENFOQUE EN DEI 
+FASE DE DESARROLLO | 4.3.1.2
+ETAPA: DESARROLLO CREATIVO 
+FOCO: Todas las personas nos relacionamos con la realidad desde sesgos y estereotipos. La mayoría de las veces no estamos conscientes de ellos.
+VERIFICA: ASPECTOS A CONSIDERAR
+PILAR: PROCESOS
+Composición del equipo creativo desde un enfoque de diversidad.
+Evaluar el nivel de sensibilización y/o conocimiento del equipo creativo sobre las competencias culturales necesarias para comprender a las distintas comunidades que se representan.
+Identificar si la solución creativa propuesta incorpora los matices culturales locales que puedan hacer que el contenido sea apropiado al contexto local, regional y global del momento.
+Evaluar el nivel de aplicación de las 3Ps de Unstereotype Alliance: Presencia, Perspectiva, Personalidad.
+Identificar cómo la diversidad puede reflejarse en los diferentes formatos y plataformas de la comunicación.
+Evaluar si el guion gráfico permite que se amplíen oportunidades para la incorporación de la diversidad.
+Explorar si los procesos de aprobación del producto final de la etapa consideran posibles sesgos. 
+--- PÁGINA 38 --- DEL DECIR AL HACER | 4.3.1 CHECKLIST DE PROCESOS CON ENFOQUE EN DEI 
+FASE DE DESARROLLO | 4.3.1.2
+ETAPA: TESTEOS PREVIOS 
+FOCO: Las pruebas previas para obtener más información sobre las audiencias y/o temas a tratar puede ser una gran oportunidad para explorar otros ángulos donde la diversidad pueda incorporarse, así como distintas formas de conectar e incluir. Pero debemos cautelar la composición del grupo que se incorpora en esta etapa.
+VERIFICA: ASPECTOS A CONSIDERAR
+Incorporar una verificación sobre prejuicios o estereotipos que puedan estar presentes.
+PILAR: PROCESOS
+Procurar un espacio seguro y honesto tanto para los grupos que participen en los testeos, como para los equipos creativos, permitiendo la exposición de opiniones distintas.
+PILAR: GRUPOS DE INTERÉS
+Incorporación de expertos que puedan apoyar con la identificación de brechas, sesgos o estereotipos.
+Incorporación en el proceso de testeo a los ERG (Employee Resource Groups) internos. 
+--- PÁGINA 39 --- DEL DECIR AL HACER | 4.3.1 CHECKLIST DE PROCESOS CON ENFOQUE EN DEI 
+FASE DE DESARROLLO | 4.3.1.2
+ETAPA: PRODUCCIÓN 
+FOCO: La incorporación de un enfoque de DEI en esta etapa abarca tanto la diversidad en la composición de los equipos, cómo en la accesibilidad en las instalaciones donde se desarrolla la producción.
+VERIFICA: ASPECTOS A CONSIDERAR
+Composición del equipo de producción desde un enfoque de diversidad.
+Abrir procesos licitatorios que busquen la participación de grupos menos representados en los distintos roles de producción. (dirección, fotografía, etc)
+Identificar si el casting considerado refleja diversidad de perfiles.
+PILAR: PROCESOS
+Garantizar que las fuentes de identificación del casting son diversas, de manera de asegurar un proceso inclusivo en la consideración de la representación.
+Identificar si la utilería o el vestuario perpetúan estereotipos.
+Garantizar que las condiciones de las instalaciones de producción brinden accesibilidad a los distintos grupos. 
+--- PÁGINA 40 --- DEL DECIR AL HACER | 4.3.1 CHECKLIST DE PROCESOS CON ENFOQUE EN DEI 
+FASE DE DESARROLLO | 4.3.1.2
+ETAPA: POSTPRODUCCIÓN 
+FOCO: En esta etapa aún estamos a tiempo de corregir detalles que puedan aportar a incorporar un enfoque diverso e inclusivo.
+VERIFICA: ASPECTOS A CONSIDERAR
+Composición del equipo de posproducción desde un enfoque de diversidad.
+Identificar si incorporamos una mirada diversa en el reparto de voces en off.
+Evaluar si se refuerzan estereotipos con los perfiles de voces en off considerados.
+PILAR: PROCESOS
+Incorporar los principios del diseño inclusivo para ampliar la accesibilidad, como subtítulos o descripciones de audio.
+Explorar si los procesos de aprobación del producto final de la etapa consideran posibles sesgos.
+Comprobar que la edición final se alinea con la visión y compromiso en DEI de la marca. 
+--- PÁGINA 41 --- DEL DECIR AL HACER | 4.3.1 CHECKLIST DE PROCESOS CON ENFOQUE EN DEI 
+FASE DE DESARROLLO | 4.3.1.2
+ETAPA: PLAN DE MEDIOS 
+FOCO: Las etapas de ideación y producción son claves para canalizar nuestro enfoque de DEI en los mensajes, pero también lo es dónde el contenido será compartido. La invitación es a construir planes de medios que sean representativos de la sociedad actual, así como a desempeñar un papel en la construcción de un ecosistema mediático en el que prosperen las voces diversas.
+VERIFICA: ASPECTOS A CONSIDERAR
+Garantizar que los planes medios no financian contenidos incendiarios, discursos de odio o desinformación.
+PILAR: PROCESOS
+Evaluar los canales a fin de determinar la idoneidad de presencia de la marca en cada uno de ellos.
+Identificar si todos los puntos de contacto considerados se relacionan con los grupos representados.
+PILAR: GRUPOS DE INTERÉS
+Según la WFA debemos tomar en cuenta los siguientes aspectos:
+Garantizar que el público sea diverso e inclusivo en la fase de planificación.
+Tomar decisiones deliberadas sobre los medios de comunicación y crear asociaciones.
+Gestionar conscientemente la idoneidad y la seguridad de la marca junto con la inclusión.
+Medir con equidad e invertir en investigación.
+Considerar la posibilidad de incluir o colaborar activamente con colaboradores de medios centrados en la diversidad.
+Evaluar la posibilidad de crear nuevos contenidos en conjunto. CHEVROLET
+--- PÁGINA 42 --- DEL DECIR AL HACER | 4.3.1 CHECKLIST DE PROCESOS CON ENFOQUE EN DEI 
+FASE DE EJECUCIÓN | 4.3.1.3
+ETAPA: LANZAMIENTO 
+FOCO: En la etapa de lanzamiento podemos evaluar el impacto de nuestra comunicación entre los distintos grupos de la diversidad, así como nuevas formas de inclusión de estos.
+VERIFICA: ASPECTOS A CONSIDERAR
+Compartir con los equipos encargados del lanzamiento, incluido redes sociales el brief de la acción de comunicación.
+PILAR: PROCESOS
+Capacitar al equipo que se encargará del lanzamiento y su seguimiento en los temas asociados a la DEI que aborda la acción.
+Elaborar un plan que incorpore lo siguiente:
+Respuesta y de seguimiento de comentarios sobre la representación.
+Batería de respuestas en caso de recibir comentarios de odio.
+PILAR: GRUPOS DE INTERÉS
+ Involucrar a los ERG de la compañía para diseñar un lanzamiento interno. 
+--- PÁGINA 43 --- DEL DECIR AL HACER | 4.3.1 CHECKLIST DE PROCESOS CON ENFOQUE EN DEI 
+FASE DE ANÁLISIS | 4.3.1.4
+ETAPA: EVALUACIÓN Y ANÁLISIS FOCO: El levantamiento de información y data relevante para la medición de impacto y progreso será de mucha utilidad para las posteriores acciones.
+VERIFICA: ASPECTOS A CONSIDERAR
+Identificar todas las variables de impacto de la marca.
+PILAR: PROCESOS
+Evaluar si las variables identificadas incluyen un enfoque de representatividad de la diversidad.
+Mapear la composición de los equipos creativos, de producción, posproducción, responsables de la estrategia de medios.
+Incorporar mediciones sobre los cómo está abordando la representación positiva de las audiencias.
+Identificar algún caso que permita inspirar e involucrar a la audiencia de forma interna o externa. CHEVROLET
+--- PÁGINA 44 --- DEL DECIR AL HACER | 4.3.1 CHECKLIST DE PROCESOS CON ENFOQUE EN DEI PROCESOS CONTINUOS | 4.3.1.5
+ETAPA: PROCESOS CONTINUOS 
+FOCO: Durante todas las fases no podemos descuidar la forma en cómo nos comunicamos y relacionamos tanto interna como externa. Cultivar una cultura inclusiva tiene que ver con las formas, pero también con el modo de trabajo. 
+VERIFICA: ASPECTOS A CONSIDERAR
+PILAR: PROCESOS
+Incorpore formas de lenguaje inclusivo en sus comunicaciones formales e informales.
+Durante los procesos de ideación, revisiones y solicitudes de cambio cultive un clima donde se valoren, incorporen y respeten las opiniones de todas las personas involucradas.
+ETAPA: RELACIONAMIENTO 
+FOCO: Durante todas las fases no podemos descuidar la forma en cómo nos comunicamos y relacionamos tanto interna como externa. Cultivar una cultura inclusiva tiene que ver con las formas, pero también con el modo de trabajo. 
+VERIFICA: ASPECTOS A CONSIDERAR
+PILAR: GRUPOS DE INTERÉS
+Desarrollar una matriz de análisis de stakeholders como se explica en la guía. 
+--- PÁGINA 45 --- DECÁLOGO PARA UNA PUBLICIDAD NO SEXISTA 
+--- PÁGINA 46 --- CONCEPTOS CLAVES | 4.3.2 DECÁLOGO PARA UNA PUBLICIDAD NO SEXISTA Herramienta diseñada por el Observatorio Andaluz de la Publicidad No Sexista 
+CHEQUEA TU COMUNICACIÓN: PROMUEVE MODELOS QUE CONSOLIDEN PAUTAS QUE TRADICIONALMENTE FIJADAS PARA CADA UNO DE LOS GÉNEROS.
+ANÁLISIS: ANUNCIOS PUBLICITARIOS QUE DE FORMA EXPLÍCITA E IMPLÍCITA SIGUEN PERPETUANDO LOS ROLES FIJADOS TRADICIONALMENTE PARA MUJERES Y HOMBRES, MANTENIENDO EL TRADICIONAL REPARTO DE ESPACIOS PROFESIONALES Y PRIVADOS FRENTE A ESPACIOS PÚBLICOS O DE PRESTIGIO, AJENOS A CAMBIOS SOCIALES.
+CHEQUEA TU COMUNICACIÓN: FIJA ESTÁNDARES DE BELLEZA CONSIDERADOS COMO SINÓNIMO DE ÉXITO.
+ANÁLISIS: ANUNCIOS PUBLICITARIOS QUE LIMITAN LOS OBJETIVOS VITALES DE LAS MUJERES, ADECUÁNDOLOS A PATRONES ESTÉTICOS Y DE BELLEZA, Y QUE EN OCASIONES AFECTA A LA SALUD FÍSICA Y PSÍQUICA DE MUJERES ADULTAS Y ADOLESCENTES.
+CHEQUEA TU COMUNICACIÓN: PRESENTA EL CUERPO COMO UN ESPACIO DE IMPERFECCIONES QUE HAY QUE CORREGIR.
+ANÁLISIS: ANUNCIOS PUBLICITARIOS QUE PRESENTAN LOS CUERPOS DE LAS MUJERES Y LOS CAMBIOS EXPERIMENTADOS CON LA EDAD COMO "PROBLEMAS" QUE ES PRECISO OCULTAR Y/O CORREGIR.
+CHEQUEA TU COMUNICACIÓN: SITÚA A LAS MUJERES EN UNA POSICIÓN DE INFERIORIDAD Y DEPENDENCIA.
+ANÁLISIS: ANUNCIOS PUBLICITARIOS QUE PRESENTAN A LAS MUJERES COMO PERSONAS DEPENDIENTES EN CUALQUIER ASPECTO, INCLUIDO EL ECONÓMICO, ANULANDO SU LIBERTAD Y SU CAPACIDAD DE RESPUESTA Y DE ELECCIÓN.
+--- PÁGINA 47 --- CONCEPTOS CLAVES | 4.3.2 DECÁLOGO PARA UNA PUBLICIDAD NO SEXISTA Herramienta diseñada por el Observatorio Andaluz de la Publicidad No Sexista 
+CHEQUEA TU COMUNICACIÓN: NIEGA LOS DESEOS Y VOLUNTADES DE LAS MUJERES Y MUESTRA COMO «NATURAL» SU ADECUACIÓN A LOS DESEOS Y VOLUNTADES DE LAS PERSONAS DE SU ENTORNO.
+ANÁLISIS: ANUNCIOS PUBLICITARIOS QUE MUESTRAN A LAS MUJERES COMO PERSONAS REALIZADAS EN SU ÁMBITO PERSONAL EN LA MEDIDA EN QUE RESPONDEN A LOS DESEOS DE LAS PERSONAS DE SU ENTORNO FAMILIAR (HIJOS E HIJAS, EL MARIDO, EL PADRE, LA MADRE...) SIN RESPETAR SUS OBJETIVOS VITALES Y PROFESIONALES.
+CHEQUEA TU COMUNICACIÓN: PRESENTA EL CUERPO FEMENINO COMO OBJETO, ESTO ES, COMO VALOR AÑADIDO A LOS ATRIBUTOS DE UN DETERMINADO PRODUCTO.
+ANÁLISIS: ANUNCIOS PUBLICITARIOS QUE RECURREN AL CUERPO DE LA MUJER EN SU TOTALIDAD O A DETERMINADAS PARTES DEL MISMO COMO OBJETO DESVINCULADO DEL PRODUCTO QUE SE PRETENDE PUBLICITAR CON EL FIN DE ATRAER LA ATENCIÓN DE SU POTENCIAL CLIENTELA.
+CHEQUEA TU COMUNICACIÓN: PROMUEVE E IDENTIFICA COMPORTAMIENTOS EMOCIONALES E INCONTROLABLES COMO PROPIOS DE LA MUJER.
+ANÁLISIS: ANUNCIOS PUBLICITARIOS QUE MUESTRAN A LAS MUJERES MOVIDAS POR CAPRICHOS, FALTAS DE JUICIO EN SUS REACCIONES Y COMPORTAMIENTOS.
+CHEQUEA TU COMUNICACIÓN: ATENTA CONTRA LA DIGNIDAD DE LAS MUJERES O VULNERAR SUS VALORES Y DERECHOS.
+ANÁLISIS: ANUNCIOS PUBLICITARIOS QUE PRESENTAN A LAS MUJERES DE FORMA VEJATORIA O HUMILLANTE, ATACANDO A SU INTEGRIDAD FÍSICA O MORAL, O QUE PROMUEVAN EL DOMINIO DEL HOMBRE SOBRE LA MUJER, FOMENTANDO SITUACIONES DE ABUSO O DE VIOLENCIA QUE SE PUEDAN EJERCER SOBRE ELLA.
+--- PÁGINA 48 --- CONCEPTOS CLAVES | 4.3.2 DECÁLOGO PARA UNA PUBLICIDAD NO SEXISTA Herramienta diseñada por el Observatorio Andaluz de la Publicidad No Sexista 
+CHEQUEA TU COMUNICACIÓN: UTILIZA UN LENGUAJE QUE EXCLUYA A LAS MUJERES, QUE DIFICULTE SU IDENTIFICACIÓN O QUE LAS ASOCIE A VALORACIONES PEYORATIVAS.
+ANÁLISIS: ANUNCIOS PUBLICITARIOS QUE EN SU MENSAJE USAN UN LENGUAJE ESTEREOTIPADO, DISCRIMINATORIO Y PARCIAL, IMPONIENDO BARRERAS ARBITRARIAS E INJUSTAS EN EL DESARROLLO PROFESIONAL Y COLECTIVO DE LAS MUJERES.
+
+CHEQUEA TU COMUNICACIÓN: AFIRMA O SUGIERE QUE EL PRODUCTO QUE SE PROMOCIONA NO ES ADECUADO PARA MUJERES SIN QUE ESTA RESTRICCIÓN VENGA JUSTIFICADA POR LA NATURALEZA DEL MISMO.
+ANÁLISIS: ANUNCIOS PUBLICITARIOS SOBRE DETERMINADOS PRODUCTOS O SERVICIOS EN LOS QUE DE MANERA INJUSTIFICABLE SE APARTE A LA MUJER COMO POTENCIAL CONSUMIDORA DE LOS MISMOS POR EL MERO HECHO DE SER MUJER.
+--- PÁGINA 49 --- CHECKLIST DESESTEREOTIPADOR CHEVROLET
+--- PÁGINA 50 --- DEL DECIR AL HACER | 4.3.3 CHECKLIST DESESTEREOTIPADOR 
+MUJER 
+Madre / Esposa perfecta:
+Solo ella juega con muñecas y ollitas. 
+Solo ella habla del cuidado de los niños. 
+Solo ella sueña con casamiento y maternidad. 
+Si no hace todo lo anterior, falla como mujer. 
+Supermujer (multitaskers):
+Realiza innumerables tareas a la vez. 
+Nunca muestra signos de cansancio/insatisfacción. 
+Estar sobrecargada es sinónimo de éxito. 
+Nunca dice no a una tarea. 
+Cuerpo "Ideal":
+Protagonista blanca, flaca, cabello lacio. 
+Cabellos con rulos hechos de manera artificial. 
+No hay protagonista con rulos muy rizados. 
+Piel sin marcas ni arrugas. 
+Objetificada:
+Solo se muestran partes del cuerpo. 
+Ella toma un producto y no dice nada, solo sonríe. 
+La locución del anuncio es hecha por un hombre. 
+El vestuario expone el cuerpo de la mujer. 
+La mujer no es el target, solo satisface al público del anuncio. 
+Adicta a las compras (Shopaholic): 
+Ella aparece extasiada, abarrotada de bolsas. 
+Descuentos imperdibles dirigidos solamente a ellas. 
+Mientras ella se prueba ropa, él se aburre y quiere irse. 
+Ella es impulsiva y sobrepasa el límite de la tarjeta. 
+Ella no es target de anuncios relacionados con dinero. 
+Rivales:
+Las mujeres no ayudan a otras o buscan un objetivo en común. 
+Solo se vinculan si hay un interés romántico en común. 
+Hablan mal unas de otras. 
+Envidian la ropa, el cuerpo o la pareja de otra mujer. 
+En un conflicto, se llevan bien si juntas perjudican a otra. 
+DEL DECIR AL HACER | 4.3.3 CHECKLIST DESESTEREOTIPADOR 
+HOMBRE
+El proveedor
+Controla el presupuesto del hogar pero no conoce a su familia.
+Definido como "hombre de la casa" / "sostén de familia".
+Siempre paga las cuentas y maneja el auto.
+Máquina de Sexo
+Todo se vende para ayudar al hombre en la seducción.
+Son sementales y tienen varias mujeres a sus pies.
+Cuando son sentimentales, alejan a las mujeres.
+Nunca rechazan la oportunidad de tener sexo.
+Super-Papá
+Es muy elogiado por hacer tareas del hogar.
+Cuidar de sus propios hijos y el hogar es un "favor".
+Rescata a mujeres indefensas.
+El Niño y el Viejo
+No lo retan cuando se equivoca porque "solo es un niño".
+Ofende a alguien pero "no sabe que está mal porque es viejo". 
+--- PÁGINA 52 --- DEL DECIR AL HACER | 4.3.3 CHECKLIST DESESTEREOTIPADOR 
+ORIENTACIÓN SEXUAL
+Lesbianas Hipersexualizadas
+Pareja de lesbianas = Posibilidad de aventura.
+Pareja de mujeres = Oportunidad de trío para un hombre.
+Lesbianas Masculinizadas
+Lo contrario a lo femenino; con rasgos masculinizados.
+En pareja, una es súper femenina y la otra masculina.
+La Curiosa
+Ella es lesbiana porque está experimentando.
+Ella es lesbiana porque es cool.
+Gay Afeminado
+Es el amigo del protagonista, sin intereses propios. Es el chismoso.
+Comportamiento y uso de jerga gay muy exagerados.
+Promiscuidad o Familia Ausente
+Nunca se enamora, desprecia las relaciones estables.
+Está siempre listo para tener sexo en cualquier lugar.
+Se refieren al personaje como "un desperdicio".
+Nunca es retratado junto a su familia. 
+--- PÁGINA 53 --- DEL DECIR AL HACER | 4.3.3 CHECKLIST DESESTEREOTIPADOR 
+RAZA
+Negros enojados
+La mujer negra es bruta, habla en voz alta y solo se queja.
+La mujer negra nunca está cansada, llorando o débil.
+Los hombres negros son mostrados como matones y violentos.
+Negros Subalternos
+La empleada es 'como de la familia', pero poco se sabe de ella.
+Los negros ocupan roles secundarios.
+Se los muestra pobres o enfermos, esperando la salvación.
+Negros Hipersexualizados
+El cuerpo negro es la "tentación".
+Uso de frases como "los negros tienen penes grandes".
+Los negros son las amantes ardientes, pero no las novias.
+Los hombres negros se enamoran solo de mujeres blancas.
+Indígenas Perezosos
+Son relajados, prefieren descansar en vez de trabajar.
+No aparecen en anuncios relacionados a lo cotidiano.
+Indígenas Exóticas
+Las túnicas y pinturas se usan con aires de fantasía.
+Solo aparecen en campañas que hablan de bellezas diferentes.
+Indígenas Inocentes e Incivilizados
+Gestos exagerados, crean situaciones incómodas.
+No entienden nada sobre la vida en la ciudad.
+Son inocentes, fácilmente engañables.
+Asiáticas: China doll
+Los retoques en la apariencia son exagerados.
+Fragilidad, dulzura y cuerpos pequeños. CHEVROLET
+--- PÁGINA 54 --- DEL DECIR AL HACER | 4.3.3 CHECKLIST DESESTEREOTIPADOR 
+CUERPOS DISIDENTES
+Personas con discapacidad como seres iluminados
+Siempre es sabio e inspira a otros.
+Nunca se queja, nunca está triste.
+Personas con discapacidad son ejemplo de superación
+Solo aparecen durante eventos como los juegos Paralímpicos.
+Sus vidas son tristes y dolorosas.
+Nunca beben cerveza o seducen en un bar.
+Antes y Después
+Como gorda era excluida. Adelgaza y se convierte en popular.
+Antes: gordo y abatido / Después: flaco y sonriente.
+Pérdida de peso = Felicidad.
+Gordo gracioso
+Se burla de sí mismo en situaciones incómodas.
+Es solo el alivio cómico de la trama principal.
+Para estar atentos: Otros estereotipos pueden aparecer en tu anuncio, como la persona no blanca, que siempre es mística y exótica; el asiático que siempre es el nerd del grupo; el anciano, que solo vive para hacer lo que no hizo en el pasado; la gorda hiperfemenina, obsesionada con la apariencia; la mujer trans que solo protagoniza anuncios cuando está dentro de los estándares y el hombre trans invisibilizado, que nunca se muestra en situaciones cotidianas.
+Aprendé más en: fb.me/datameetsdiversity 
+--- PÁGINA 55 --- CHECKLIST SEGÚN DIMENSIONES DE ESTEREOTIPACIÓN DEL GÉNERO FEMENINO 
+--- PÁGINA 56 --- DEL DECIR AL HACER | 4.3.4 CHECKLIST SEGÚN DIMENSIONES DE ESTEREOTIPACIÓN DEL GÉNERO FEMENINO 
+Uribe, R. et al., 2008. Estereotipos de género en la publicidad: un análisis de contenido de las revistas chilenas. Santiago. Revista Latinoamericana de Administración.
+DIMENSIÓN: Mujeres privadas y hombres públicos
+Definición: Asociación de lo femenino con el mundo de lo privado (doméstico) y lo masculino con el espacio de lo público.
+PREGÚNTATE / VERIFICA:
+Indicador: tipo de producto anunciado y su asociación con el género de los personajes.
+¿Los personajes femeninos aparecen con mayor frecuencia que los personajes masculinos en los avisos publicitarios de productos para el hogar (i.e., artículos para el hogar y su limpieza) y para el cuerpo (i.e., artículos de belleza y cuidado personal)?
+Indicador: el lugar (ubicación/entorno) en el que se presentan los personajes.
+¿Los personajes femeninos aparecen con mayor frecuencia que los personajes masculinos en locaciones dentro del hogar en los avisos publicitarios?
+DIMENSIÓN: El género femenino y su menor estatus social
+Definición: Es la asociación de la mujer a una situación de menor estatus social, ya sea porque sus ocupaciones más frecuentes son ser ama y dueña de casa, porque trabaja en cargos de menor nivel en las empresas, etc.
+PREGÚNTATE / VERIFICA:
+Indicador: Asociación de la mujer a productos de menor precio o de menor estatus social.
+¿Los personajes femeninos aparecen con mayor frecuencia que los personajes masculinos en los avisos publicitarios de productos de bajo precio?
+Indicador: Asociación de la mujer a roles laborales de menor estatus.
+¿Los personajes femeninos aparecen con mayor frecuencia que los personajes masculinos en cargos de bajo estatus laboral en los avisos publicitarios? 
+--- PÁGINA 57 --- DEL DECIR AL HACER | 4.3.4 CHECKLIST SEGÚN DIMENSIONES DE ESTEREOTIPACIÓN DEL GÉNERO FEMENINO
+DIMENSIÓN: La dependencia del género femenino
+Definición: Se refiere a las mujeres que representan un rol de dependencia frente a la autonomía desarrollada por el género masculino.
+PREGÚNTATE / VERIFICA:
+Indicador: presencia de hombres y mujeres solos
+¿Los personajes femeninos aparecen acompañados en mayor proporción que los personajes masculinos?
+Indicador: presencia de mujeres y hombres en sus roles de esposos y padres.
+¿Los personajes femeninos aparecen con roles más dependientes (i.e., madres, esposas o novias) en mayor proporción que los personajes masculinos)?
+DIMENSIÓN: El género femenino como opuesto al intelecto
+Definición: Se refiere a la asociación del género masculino con el mundo de la intelectualidad y del género femenino a la emocionalidad, lo práctico y lo relacionado con el cuerpo.
+PREGÚNTATE / VERIFICA:
+Indicador: personajes masculinos utilizados con más frecuencia en avisos con apelación del tipo racional, mujeres más asociadas en avisos con apelación del tipo emocional
+¿Los personajes masculinos son presentados en avisos cuya apelación se dirige a la racionalidad y los personajes femeninos son presentados en avisos cuya apelación se dirige a la emocionalidad?
+Indicador: estilo cognitivo asociado al género
+¿Los personajes masculinos son presentados como expertos y los personajes femeninos como usuarios?
+Indicador: tratamiento del cuerpo según el género
+¿Los personajes femeninos exhiben el cuerpo con mayor frecuencia que los personajes masculinos?
+Indicador: rango de edades según el género
+¿Los personajes femeninos son más jóvenes que los personajes masculinos? 
+--- PÁGINA 58 --- TEST DEL OBJETO SEXUAL (TOS)
+--- PÁGINA 59 --- CONCEPTOS CLAVES | 4.3.5 TEST DEL OBJETO SEXUAL (TOS) 
+Herramienta diseñada por la socióloga Caroline Heldman
+CHEQUEA TU COMUNICACIÓN
+¿LA IMAGEN MUESTRA ÚNICAMENTE UNA PARTE O PARTES DEL CUERPO DE LA PERSONA, ESPECIALMENTE AQUELLAS QUE TIENEN CONNOTACIÓN SEXUAL?
+¿LA IMAGEN MUESTRA A UNA PERSONA SEXUALIZADA QUE ACTÚA COMO SOPORTE PARA UN OBJETO, PRODUCTO O SERVICIO?
+¿LA IMAGEN MUESTRA A UNA PERSONA SEXUALIZADA QUE PUEDE SER INTERCAMBIADA EN CUALQUIER MOMENTO?
+¿LA IMAGEN MUESTRA A UNA PERSONA SEXUALIZADA QUE ESTÁ SIENDO VEJADA O HUMILLADA SIN SU CONSENTIMIENTO?
+¿LA IMAGEN SUGIERE QUE LA CARACTERÍSTICA DEFINITORIA DE LA PERSONA ES SU DISPONIBILIDAD SEXUAL?
+¿LA IMAGEN MUESTRA A UNA PERSONA SEXUALIZADA QUE PUEDE SER USADA COMO MERCANCÍA O COMO ALIMENTO?
+¿LA IMAGEN MUESTRA A UNA PERSONA SEXUALIZADA EN DONDE SE UTILIZA EL CUERPO COMO SI FUESE UN LIENZO?
+¿EXISTE UNA EVIDENTE CARGA SEXUAL EN EL COMPORTAMIENTO, POSTURA, ROPA Y/O FORMA DE HABLAR DE LAS MUJERES/HOMBRES PARTICIPANTES? 
+--- PÁGINA 60 --- MATRIZ DE STAKE HOLDERS (SH) 
+--- PÁGINA 61 --- CONCEPTOS CLAVES | 4.3.6 MATRIZ DE SH
+PASO 1: ACCIÓN: INFORMACIÓN DISPONIBLE 
+IDENTIFICAR CON QUÉ CLASE DE INFORMACIÓN QUE CONTAMOS SOBRE LA INICIATIVA, ACCIÓN O COMUNICACIÓN A DESARROLLAR PARA COMPRENDER LA NATURALEZA, ALCANCE Y RESULTADOS ESPERADOS.
+APLICA - VERIFICA CON CUÁL INFORMACIÓN CUENTAS:
+Algún tipo de documento que nos permita entender el contexto, objetivos, metas y resultados que queremos alcanzar.
+¿Conoces cuáles son los activos de la organización? ¿Se ha realizado anteriormente algún tipo de iniciativa o comunicación similar? ¿Conoces las lecciones aprendidas?
+¿Conoces la cultura, la estructura de la organización/empresa con quien se desarrollará la iniciativa o comunicación?
+¿Conoces los estándares gubernamentales o de la industria con relación a la temática?
+¿Conoces las tendencias globales, regionales o locales y las prácticas o hábitos en relación con la temática? 
+--- PÁGINA 62 --- CONCEPTOS CLAVES | 4.3.6 MATRIZ DE SH
+PASO 2: ACCIÓN: DÓNDE SE ENCUENTRAN NUESTROS STAKEHOLDER 
+IDENTIFICAR A TODAS AQUELLAS PERSONAS, GRUPOS U ORGANIZACIONES IMPACTADAS DIRECTA O INDIRECTAMENTE POR LAS ACCIONES O COMUNICACIÓN A DESARROLLAR.
+APLICA - VERIFICA DÓNDE PUEDES HALLAR A TUS SH:
+INTERNA:
+Pueden encontrarse en distintos niveles dentro de la empresa.
+Quienes serán de algún modo impactados por los resultados de la iniciativa.
+EXTERNA:
+Puede estar compuesto por clientes, comunidad de seguidores, posibles interesados en la marca, sociedad civil, entre otros.
+PASO 3: ACCIÓN: IDENTIFICACIÓN DE STAKEHOLDERS
+LISTAR Y CLASIFICAR LAS PERSONAS, GRUPOS, ORGANIZACIONES U EMPRESAS QUE SE VINCULAN CON LA INICIATIVA, SEGÚN SI SON PARTES INTERESADAS INTERNAS O EXTERNAS.
+COMPLETA: | TIPO DE STAKEHOLDERS | | INTERNOS |  | EXTERNOS | | UNIDAD/ORGANIZACIÓN | | :--- | :--- |
+--- PÁGINA 63 --- CONCEPTOS CLAVES | 4.3.6 MATRIZ DE SH
+PASO 4: ACCIÓN: IDENTIFICACIÓN DE STAKEHOLDERS 
+PARA CADA UNA DE LAS PARTES INTERESADAS YA LISTADAS RESPONDE LAS PREGUNTAS Y CLASIFICA SEGÚN LA CLASIFICACIÓN QUE NOS PRESENTA EL BID.
+APLICA 
+¿CUÁL ES EL TIPO DE INTERÉS DE CADA SH?
+¿Su interés es económico o sienten una sensibilidad especial hacia la iniciativa?
+¿Comparten los mismos objetivos en relación con iniciativas de Diversidad, Equidad e Inclusión?
+¿Qué aspectos son los que más les motivan?
+¿Quién o qué influye en su opinión y  forma de trabajar los temas?
+¿Cómo podemos ganarlos como aliados?
+Si representan una posible amenaza al éxito de la iniciativa, ¿cómo podemos hacer frente a su
+oposición?
+
+ CLASIFICA A CADA SH SEGÚN ESTAS CATEGORÍAS:
+Desconocedor: Desconocedor del proyecto y de sus impactos potenciales.
+Reticente: Conocedor del proyecto y de sus impactos potenciales, y reticente al cambio.
+Neutral: Conocedor del proyecto, aunque ni lo apoya ni es reticente.
+Partidario: Conocedor del proyecto y de sus impactos potenciales, y apoya el cambio.
+Líder: Conocedor del proyecto y de sus impactos potenciales, y activamente involucrado en asegurar el éxito del mismo.
+COMPLETA: | TIPO DE STAKEHOLDERS | NOMBRE DEL STAKEHOLDER | TIPO DE INVOLUCRAMIENTO | | :--- | :--- | :--- | | INTERNOS | | | | EXTERNOS | | 
+--- PÁGINA 64 --- CONCEPTOS CLAVES | 4.3.6 MATRIZ DE SH
+PASO 5: ACCIÓN: IDENTIFICACIÓN DE STAKEHOLDERS
+LISTAR LOS OBJETIVOS O RESULTADOS EN LOS QUE LOS STAKEHOLDERS MUESTRAN INTERÉS O EN AQUELLOS EN LOS QUE PUEDEN INFLUIR POSITIVA O NEGATIVAMENTE CON SUS ACCIONES. ESTA INFORMACIÓN SE PUEDE RECOPILAR A TRAVÉS DE ENTREVISTAS CON LAS PARTES INTERESADAS.
+COMPLETA: | TIPO DE STAKEHOLDERS | NOMBRE DEL STAKEHOLDER | TIPO DE INVOLUCRAMIENTO |OBJETIVOS/RESULTADOS | :--- | :--- | :--- | | INTERNOS | | | | EXTERNOS | | 
+
+PASO 6: SKATEHOLDERS POR ORIENTACIÓN A RESULTADOS 
+CLASIFICAR CADA STAKEHOLDERS DE ACUERDO CON CÓMO SE INVOLUCRAN O NO EN LA PROSECUCIÓN DE LOS RESULTADOS.
+APLICA - CLASIFICA A CADA SH SEGÚN ESTAS CATEGORÍAS:
+Pensamiento estratégico: se vincula contribuyendo, interviniendo o definiendo los objetivos estratégicos.
+Análisis y Planificación: se vincula contribuyendo, interviniendo o definiendo los planes, acciones y monitoreo.
+Actuar, revisar e informar: se vincula como socio que ofrece asesoría, recomendaciones y que debe mantenerse comunicación fluida.
+Fortalecimiento de las capacidades: se vincula contribuyendo a la formación y fortalecimiento de capacidades internas.
+Relacionamiento corporativo: se vincula en un nivel de socio y/o aliado de la iniciativa, pero sin intervenir directamente en ella. 
+--- PÁGINA 65 --- CONCEPTOS CLAVES | 4.3.6 
+MATRIZ DE SH
+PASO 7: ACCIÓN: SKATEHOLDERS POR INTERÉS O INFLUENCIA
+ CLASIFICAR A CADA UNO DE NUESTROS STAKEHOLDERS SEGÚN EL GRADO DE INTERÉS E INFLUENCIA QUE TENGAN EN LA INICIATIVA O COMUNICACIÓN, IDENTIFICANDO EN CUÁL CUADRANTE SE ENCUENTRAN. (Se muestra la matriz Interés vs Influencia) 
+--- PÁGINA 66 --- CONCEPTOS CLAVES | 4.3.6 MATRIZ DE SH
+PASO 8: ACCIÓN: SKATEHOLDERS POR INTERÉS O INFLUENCIA
+ CLASIFICAR A CADA UNO DE NUESTROS STAKEHOLDERS SEGÚN EL GRADO DE INTERÉS E INFLUENCIA QUE TENGAN EN LA INICIATIVA, CONSIDERANDO LA MATRIZ DE INTERÉS E INFLUENCIA, IDENTIFICAREMOS EN CUÁL CUADRANTE SE ENCUENTRA, PARA CONOCER QUÉ TIPO DE ESTRATEGIA DEBEMOS ABORDAR CON CADA UNO DE ELLOS. (Se muestra la matriz con las estrategias: Involucrar, Reportar, Informar, Monitorear) 
+--- PÁGINA 67 --- EVALUACIÓN DE DIVERSIDAD E INCLUSIÓN EN LA COMUNICACIÓN 5.1. 
+KPIs para la gestión de DEI en la comunicación 
+5.2. Cómo medir DEI en las comunicaciones de marketing 
+5.3. Vinculación de indicadores para incorporar el enfoque DEI 
+5.4. Criterios a considerar: 5.4.1. Paso a paso para indicadores comunicación de marketing
+ 5.4.2. Indicadores de procesos 
+--- PÁGINA 68 --- EVALUACIÓN DE DIVERSIDAD | 5.1 KPIS PARA LA GESTIÓN DE DEI EN LA COMUNICACIÓN 
+Parte de ser una empresa inclusiva es involucrar en cada área los conceptos y las acciones referentes a la DEI, sin embargo, en este proyecto hemos querido enfocar más nuestros esfuerzos en el ámbito de la responsabilidad de las comunicaciones de marketing. 
+KPIs para la gestión de DEI en la comunicación 
+Al igual que lo que no se nombra no existe, lo que no se mide tampoco existe. Para una completa gestión de cualquier estrategia y objetivos es necesario cuantificar lo que estamos haciendo. No es diferente cuando de acciones de Diversidad, Equidad e inclusión se trata. Es de suma importancia medir los logros o la eficacia de las acciones que ponemos en marcha. En este sentido los KPIs nos permiten saber qué funciona para seguir trabajando en ello, pero también qué hay que mejorar o qué prácticas debemos eliminar. Desde el inicio los objetivos en DEI deben ir integrados y alineados a los objetivos corporativos, su vinculación a la estrategia de negocio nos permitirá medir el impacto de nuestras acciones en la compañía y en todo su espectro de relacionamiento. Cuando trabajamos con indicadores y requerimos conocer si avanzamos requerimos tomar un punto de comparación o inicial, de otra manera será muy difícil establecer si hubo algún cambio o mejora de la situación que deseamos intervenir. 
+--- PÁGINA 69 --- EVALUACIÓN DE DIVERSIDAD | 5.2 CÓMO MEDIR DEI EN LAS COMUNICACIONES DE MARKETING 
+A la hora de definir KPI's para conocer el impacto de la incorporación de un enfoque en DEI, es conveniente, en primer lugar, buscar indicadores objetivos que podamos expresar en datos. En segundo lugar, partir con una revisión de los indicadores que ya se contabilizan. Por el contrario, puede ser poco realista proponer indicadores que no existan. Además, se pueden utilizar indicadores basados en opiniones o percepciones, como son los de satisfacción del cliente o encuestas de engagement.
+ Tipos de indicadores: Existen distintos tipos de indicadores y su uso dependerá sobre todo de la fase del proceso donde se quieran obtener medidas de cambio de situación o niveles de avance. Las principales formas son:
+INDICADORES DE PROCESO (Programación de las actividades, Ejecución de recursos)
+INDICADORES DE PRODUCTO (Eficiencia / Eficacia / Calidad)
+INDICADORES DE RESULTADO (Resultados intermedios, Impacto) 
+--- PÁGINA 70 --- EVALUACIÓN DE DIVERSIDAD | 5.3 VINCULACIÓN DE INDICADORES PARA INCORPORAR EL ENFOQUE DE DEI 
+Para contar con una mirada holística de los aspectos que intervienen en nuestra estrategia de comunicación de marketing con enfoque de DEI, consideraremos indicadores que permitan dar cuenta de nuestra estrategia de comunicación, de relacionamiento y de incorporación del enfoque inclusivo en nuestras prácticas, como se detalla a continuación:
+RELACIONAMIENTO: Son tanto internos como externos, deben considerar gestionar y medir la relación con nuestros partners y socios estratégicos, como el relacionamiento que se tenga con los consumidores. Considerando así el impacto en la rentabilidad, fidelización, valor futuro y NPS de la satisfacción.
+DEI EN PROCESOS: Mediremos cómo el enfoque de DEI se incorpora en toda la cadena de procesos definidos como son: construcción de brief, mails, formularios, Q&A, checklist para creatividad y producción, relación con partners, elección de casting.
+COMUNICACIÓN DE MARKETING: Basado en los objetivos generales de las áreas de marketing y comercial. Pero realmente un plan de comunicación entendido de forma global abarca todos los objetivos de comunicación de la organización. 
+--- PÁGINA 71 --- EVALUACIÓN DE DIVERSIDAD | 5.4 CRITERIOS A CONSIDERAR 
+PASO A PASO PARA INDICADORES COMUNICACIÓN DE MARKETING | 5.4.1 Impacto
+Definición: El enfoque de DEI en este indicador se convierte en un diferenciador más del impacto de una acción o campaña.
+Forma de calcularlo: Podemos establecer un parámetro de campañas con o sin enfoque de DEI para tener parámetros de performance entre una y otra:
+Share of voice: medimos las menciones a nuestra marca con relación a la competencia.
+Valor publicitario: equipararemos las menciones y apariciones nuestras en los medios como si fuera un espacio publicitario pagado.
+Engagement: analizaremos la reacción que nuestra comunicación genera en nuestros clientes o potenciales clientes.
+Fidelización y relación con clientes: estableceremos KPIs relacionados con la recurrencia de nuestros clientes, su valor en nuestra cartera, activación, etc.
+Periodicidad: Fijaremos una línea temporal para levantar los indicadores, después de cada campaña o actividad.
+Proceso: Dejar por escrito a que actividad o campaña se está relacionando esta medición.
+Responsable: Persona encargada de marketing de la actividad o campaña. CHEVROLET
+--- PÁGINA 72 --- EVALUACIÓN DE DIVERSIDAD | 5.4 CRITERIOS A CONSIDERAR
+Positividad
+Definición: Con este indicador vamos a poder identificar si la comunicación de una activación o campaña ha llegado al mayor número de personas posible sin ofender la sensibilidad de algunos. Es decir, si gusta o no.
+Forma de calcularlo: Permite saber si tu mensaje ha tenido un efecto positivo en el objetivo y para calcularlo podemos incluir la medición de la "reacción positiva" al mensaje.
+Periodicidad: Es recomendable hacer seguimiento de este indicador después de cada campaña o actividad.
+Proceso: Es importante que tengamos en cuenta actividades o campañas anteriores relacionadas para poder tener un historial que nos permita tener un Gap de desempeño.
+Responsable: Persona encargada de marketing de la actividad o campaña. 
+--- PÁGINA 73 --- EVALUACIÓN DE DIVERSIDAD | 5.4 CRITERIOS A CONSIDERAR 
+Coherencia
+Definición: Este indicador debe siempre reflejar la imagen corporativa, la visión, los valores de la empresa y su propósito de marca.
+Forma de calcularlo: Este es un cálculo más interno que debe pasar por un control de equipo que tenga como misión la de establecer parámetros que velen siempre porque se refleje el propósito de la marca, el tono sea el adecuado, el casting sea el indicado, el lenguaje apropiado.
+Periodicidad: Este debiera ser un trabajo diario y definido como un step más en cada acción comunicacional.
+Proceso: Es importante incorporar este tipo de acciones a la rutina diaria de las tareas de comunicaciones.
+Responsable: Todos los y las colaboradores que tengan responsabilidades de comunicaciones internas y externas. CHEVROLET
+--- PÁGINA 74 --- EVALUACIÓN DE DIVERSIDAD | 5.4 CRITERIOS A CONSIDERAR 
+Adecuación a los objetivos
+Definición: ¿La imagen que transmites con tu comunicación de marca está alineada con tus objetivos? La adecuación hace referencia al nivel de compatibilidad entre tu mensaje publicitario y tu plan de medios predefinido.
+Forma de calcularlo: Este indicador debe medirse en efectividad de medios escogidos en el plan de medios y mensajes según segmentación de target.
+Periodicidad: Se debe establecer periodicidad de medición según posibilidad de medición de agencia de medios.
+Proceso: Es fundamental establecer la correlación existente entre target, mensaje y medio.
+Responsable: Persona encargada de activación o campaña + agencia de medios. 
+--- PÁGINA 75 --- EVALUACIÓN DE DIVERSIDAD | 5.4 CRITERIOS A CONSIDERAR 
+Adecuación al target
+Definición: ¿Está la estrategia de comunicación de marca realmente diseñada para mi consumidor o para quién quiero impactar incorporando el enfoque de DEI?
+Forma de calcularlo: Este indicador debe ser medido en conjunto con la efectividad de medios, en las dimensiones de entendimiento de mensaje y target.
+Periodicidad: Se debe establecer periodicidad de medición según posibilidad de medición de agencia de medios.
+Proceso: Si tenemos un público objetivo definido, debemos cerciorarnos de que los contenidos se adaptan a la edad, intereses, categoría profesional, ubicación y otros criterios demográficos.
+Responsable: Persona encargada de activación o campaña + agencia de medios. 
+--- PÁGINA 76 --- EVALUACIÓN DE DIVERSIDAD | 5.4 CRITERIOS A CONSIDERAR 
+Utilización de diferentes formatos
+Definición: La incorporación de un enfoque de DEI implica también evaluar la forma más eficiente de visibilizar los mensajes según la audiencia, su relación con los medios y los diferentes formatos.
+Forma de calcularlo: Este indicador debe ser medido en conjunto con la efectividad de medios, en las dimensiones de adaptaciones de formatos.
+Periodicidad: Se debe establecer periodicidad de medición según posibilidad de medición de agencia de medios.
+Proceso: Sugerimos medir la efectividad de la performance de mensajes en diferentes formatos dirigidos a diferentes públicos objetivos.
+Responsable: Persona encargada de activación o campaña + agencia de medios. 
+--- PÁGINA 77 --- EVALUACIÓN DE DIVERSIDAD | 5.4
+CRITERIOS A CONSIDERAR 
+Tasa de participación
+Definición: Recuerda siempre medir con un enfoque de DEI, atendiendo a las diferentes audiencias a las que estás alcanzando.
+Forma de calcularlo: Para medir este indicador debes contabilizar la tasa de participación en cada publicación que se realice. 
+Total de interacciones / total de usuarios expuestos a la publicación x 100
+Periodicidad: Se recomienda que esta medición se haga luego de cada campaña o activación.
+Proceso: Proponemos que este proceso sea continuo y si el contenido es expuesto más de una vez durante la campaña, que este tenga un proceso diferente de medición.
+Responsable: Persona encargada de medición de performance de contenidos de campaña. 
+--- PÁGINA 78 --- EVALUACIÓN DE DIVERSIDAD | 5.4 
+CRITERIOS A CONSIDERAR 
+KPIs vinculados al tráfico generado por el anuncio
+Definición: En una campaña digital, este indicador nos ayudará a pilotar y estudiar el origen y la distribución de los visitantes durante un período determinado. Este indicador es relevante pues nos da luces de cómo podemos profundizar nuestro enfoque de DEI con nuestros mensajes, formatos y plataformas. Entendiendo el comportamiento y el tráfico de las audiencias, podremos tener más atención en desarrollar campañas completamente enfocadas en DEI.
+Forma de calcularlo: Tráfico del sitio. Este indicador está relacionado con la popularidad, con el número de visitantes que recibe una web. Evidentemente, cuanto más alto más popular es dicha web.
+Relacionado con este indicador tenemos otro que es el tiempo que los visitantes están en el sitio. Con este dato sabremos si se despierta el interés del usuario por los contenidos, servicios o productos que ofrezcamos o, por el contrario, no es así o lo es en algunas de las páginas y en otras no.
+El porcentaje de visitantes nuevos frente a los visitantes recurrentes, esto es, los visitantes que acceden por primera vez y los que repiten visita. Esta estadística nos aporta una visión del tipo de tráfico que accede a nuestra web o ecommerce, de la fidelización de los usuarios y de si llegamos a un nuevo público.
+El ámbito social también entra en los indicadores de rendimiento para poder ver si las campañas de Facebook, Twitter, Google Plus o cualquier otra red social generan el tráfico que deseamos o, por el contrario, necesitamos cambiar de estrategia. El número de seguidores o fans es otro dato que podemos monitorizar previo establecimiento de objetivos.
+Las páginas vistas por visita es una métrica que indica el promedio de páginas vistas por visita a un determinado sitio web siempre que la página se cargue completamente. Si alguna página se repite, también se contabiliza en el total por usuario.
+Hay otras métricas que indican rendimiento con relación a la procedencia de los visitantes. Y estas son las fuentes de tráfico que pueden ser: directas, pues la persona escribe la dirección en el navegador o de referencia, que son dominios que dirigen el tráfico al sitio. O inesperadas, que pueden ser las que provienen de un blog que descubrió tu producto o servicio.
+--- PÁGINA 79 --- EVALUACIÓN DE DIVERSIDAD | 5.4 
+CRITERIOS A CONSIDERAR 
+INDICADORES DE PROCESOS | 5.4.2 
+Evaluar nuestros procesos será esencial para conocer el impacto de la diversidad e inclusión en ellos. En este sentido, las mediciones o KPIS que podemos desarrollar contemplan los siguientes elementos:
+FASE DE DESARROLLO
+ETAPA: Desarrollo creativo
+INDICADOR: Proporción de personajes incluidos según grupos de la diversidad de acuerdo con el lugar o escenario en el que aparecen (casa, cocina, exteriores, oficina, etc).
+PERIODICIDAD: En cada campaña o comunicación.
+INDICADOR: Proporción de uso de imágenes diversas e inclusivas.
+PERIODICIDAD: En cada campaña o comunicación.
+INDICADOR: Proporción de perfiles incorporados según grupos de la diversidad.
+PERIODICIDAD: En cada campaña o comunicación.
+ETAPA: Testeos previos
+INDICADOR: Número de personas según tipo de la diversidad consultadas.
+PERIODICIDAD: En cada prueba.
+
+ETAPA: Producción
+INDICADOR: Número de personas según tipo de la diversidad integradas al equipo según roles y grupos de la diversidad.
+PERIODICIDAD: En cada campaña o comunicación.
+
+ETAPA: Plan de medios
+INDICADOR: Número de proveedores de medios gestionado por grupos subrepresentados.
+PERIODICIDAD: En cada campaña o comunicación
+
+FASE DE EJECUCIÓN
+ETAPA: Lanzamiento
+INDICADOR:  Número de campañas de producto que incluyan un enfoque de DEI.
+PERIODICIDAD: En cada campaña o comunicación
+FASE DE COMUNICACIÓN INTERNA
+INDICADOR:  Número de campañas de comunicación sobre DEI.
+PERIODICIDAD: Trimestral
+INDICADOR:  Número de comunicaciones de la gerencia con referencias a diversidad de inclusión.
+PERIODICIDAD: Trimestral
+--- PÁGINA 80 --- GLOSARIO 
+--- PÁGINA 81 --- GLOSARIO|6 
+DIMENSIÓN DEMOGRÁFICA | 6.1 
+DIVERSIDAD DEMOGRÁFICA: SEXO, DISCAPACIDAD, EDAD, LGBTIQ+
+DIVERSIDAD EXPERIENCIAL: EXPERIENCIA EN LA EMPRESA, DIVERSIDAD EN FORMACIÓN, DIVERSIDAD CULTURAL
+DIVERSIDAD COGNITIVA: RESOLUCIÓN DE PROBLEMAS, DIVERSIDAD DE PERSONALIDADES, DIVERSIDAD DE LIDERAZGO
+ADULTO MAYOR: Toda persona ya sea hombre o mujer que ha cumplido 60 años de edad en adelante, enfrentándose en lo laboral a una percepción negativa de su adaptabilidad y productividad en comparación a las habilidades de personas más jóvenes. No se considera apropiado el término "tercera edad", tampoco "abuelo(a), abuelito(a)", tampoco "anciano(a)". El primero corresponde a una categoría que no existe, (no existe la primera, segunda edad). Las segundas y terceras categorizaciones corresponden a un rol. 
+ANDROGINIA: La combinación de características femeninas y masculinas en una forma ambigua. 
+AROMÁNTICO: Término más reciente relacionado con asexual. Sin embargo, es un adjetivo que se usa para describir a las personas que no experimentan atracción romántica. 
+AGÉNERO: Describe a una persona que no se identifica como hombre o mujer, o que se considera carente de una identidad de género. 
+BISEXUAL: Adjetivo que se usa para describir a las personas que tienen la capacidad de formar atracciones físicas, románticas y / o emocionales duraderas hacia personas del mismo género o hacia personas de otro género. 
+CISGÉNERO: Término para describir a una persona cuya identidad de género coincide con la sexualidad biológica que se le asignó al nacer. 
+--- PÁGINA 82 --- GLOSARIO 6 | DIMENSIÓN DEMOGRÁFICA | 6.1
+DRAG QUEEN/DRAG KING: Término para alguien que presenta un personaje con ropa, nombre y / o pronombres que difieren de su género cotidiano por placer, entretenimiento y / o expresión personal. Si bien las drags queens son típicamente hombres homosexuales y los drag kings son típicamente lesbianas, estamos viendo una tendencia de personas trans que crean personajes para programas de drag. Lo que hay que recordar es que el personaje drag está separado de la identidad del interprete.
+EXPRESIÓN DE GÉNERO: Es la forma en que manifestamos nuestro género mediante nuestro comportamiento y nuestra apariencia. La expresión de género puede ser masculina, femenina, andrógina o cualquier combinación de las tres. Para muchas personas, su expresión de género se ajusta a las ideas que la sociedad considera apropiadas para su género, mientras que para otras no. Las personas cuya expresión de género no se ajusta a las normas y expectativas sociales, como los hombres que son percibidos como "afeminados" o las mujeres consideradas "masculinas", suelen ser objeto de duros castigos como acosos y agresiones físicas, sexuales o psicológicas. La expresión de género de una persona no siempre está vinculada con su sexo biológico, su identidad de género o su orientación sexual.
+GAY: Adjetivo que se usa para describir a las personas cuya atracción física, romántica y / o emocional duradera es hacia una persona de la misma identidad de género. Si bien esta palabra se usa principalmente para hombres, se ha usado para abarcar a toda la comunidad. Recomendamos que se utilice LGBTQ+.
+GRUPOS EN SITUACIÓN DE EXCLUSIÓN Y/O DISCRIMINACIÓN: Conjunto de personas que presentan brechas de acceso al mercado laboral u otros, las cuales se ven representadas en dificultades de acceso por barreras de tipo físicas, comunicacionales, arquitectónicas y tecnológicas, así como también por barreras de tipo actitudinal (estereotipos, mitos y prejuicios).
+HOMOSEXUALES: Es un término que generalmente se usa de manera despectiva contra las personas homosexuales y lesbianas. Se recomienda usar "hombres gay y lesbianas".
+IDENTIDAD DE GÉNERO: Sentido interno y profundo de una persona sobre su género. La mayoría de las personas tienen una identidad de género de hombre o mujer, pero algunas tienen una identidad de género que no encaja perfectamente en una de esas dos opciones. A diferencia de la expresión de género, la identidad de género no es visible para los demás.
+--- PÁGINA 83 --- GLOSARIO 6 | DIMENSIÓN DEMOGRÁFICA | 6.1
+LESBIANA: Adjetivo que se usa para describir a las mujeres cuya atracción física, romántica y / o emocional perdurable es hacia otra mujer. Tenga en cuenta que, cuando les pregunte cómo se identifican, algunas mujeres podrían decirle que prefieren identificarse como homosexuales en lugar de lesbianas.
+LGBTQ+: Acrónimo utilizado para describir esta comunidad vibrante y diversa: La L es para lesbiana, G es para gay, B es para bisexual, T es para transgénero, Q es principalmente para queer, aunque algunas organizaciones juveniles usan la Q para interrogar, y el signo + es para incluir más a otras personas cuya etiqueta no está representada.
+NEUTRAL EN CUANTO AL GÉNERO: Este término se utiliza para describir las instalaciones que cualquier persona puede utilizar independientemente de su género (por ejemplo, baños neutrales en cuanto al género). Algunas personas usan este término como su identidad de género para transmitir que no se suscriben a ningún género construido socialmente.
+NO BINARIO Y/O GENDERQUEER: Término utilizado por algunas personas que experimentan que su identidad de género y / o expresión de género quedan fuera de las categorías de hombre y mujer. Su identidad puede estar en algún lugar entre el hombre y la mujer o la definen como completamente diferente de estos términos. Utilizado por algunas personas cuya expresión de género es diferente de las expectativas convencionales de masculinidad y feminidad. Tenga en cuenta que muchas personas tienen expresiones de género que no son del todo convencionales. Solo debe usarse si alguien se identifica a sí mismo como no conforme con su género.
+ORIENTACIÓN ROMÁNTICA: Se refiere a la sexualidad de la persona con la que es más probable que una persona desarrolle una relación romántica. Una orientación romántica típicamente influirá, y será influenciada por, la orientación sexual de una persona, aunque no siempre es así. CHEVROLET
+--- PÁGINA 84 --- GLOSARIO 6 | DIMENSIÓN DEMOGRÁFICA | 6.1
+ORIENTACIÓN SEXUAL: La atracción física, romántica y / o emocional duradera de un individuo hacia miembros de la misma u otra identidad de género.
+PANSEXUAL: Adjetivo similar a bisexual pero para personas que pueden entablar relaciones con otras personas sin importar su identidad de género, incluido el género queer y no binario.
+PREFERENCIA SEXUAL: Se refiere a la elección de las personas por quienes se sientan atraídas o con las que se involucran románticamente. Se prefiere el término orientación sexual.
+QUEER: Adjetivo usado por algunas personas, particularmente los más jóvenes, cuya orientación sexual no es exclusivamente heterosexual. Por lo general, para aquellos que se identifican como queer, los términos lesbiana, gay y bisexual se perciben como demasiado limitantes y / o cargados de connotaciones culturales que sienten.
+RAZA: Cada uno de los cuatro grandes grupos étnicos en que se suele dividir la especie humana teniendo en cuenta ciertas características físicas distintivas, como el color de la piel o el cabello, que se transmiten por herencia de generación en generación. Las cuatro razas documentadas son: blanca (caucásica), negra (negroide), amarilla (mongoloide) y cobriza.
+RELACIÓN INTERPERSONAL: Se refiere a la interacción recíproca entre dos o más personas. Se trata de relaciones sociales que, como tales, se encuentran reguladas por las normas e instituciones de la interacción social.
+SEXO: La clasificación de una persona como hombre o mujer generalmente asignada al nacer en función de la apariencia de su anatomía externa. Sin embargo, es una combinación de cromosomas, hormonas, órganos reproductores internos y externos y características sexuales secundarias. 
+--- PÁGINA 85 --- GLOSARIO 6 | DIMENSIÓN DEMOGRÁFICA | 6.1
+TRANSEXUAL: Término más antiguo que se originó en la comunidad médica, pero todavía lo utilizan algunas personas que han cambiado permanentemente sus cuerpos a través de intervenciones médicas. Este NO es un término general y muchas personas transgénero no se identifican como transexuales y prefieren transgénero.
+TRANSGÉNERO: Término general para las personas cuya identidad de género y / o expresión de género difiere de lo que se asocia típicamente con el sexo que se les asignó al nacer. Las personas transgénero pueden describirse a sí mismas utilizando una variedad de términos. Está bien preguntarles con quién se identifican. Es importante señalar que una identidad transgénero no depende de la apariencia física o si se realizó un procedimiento médico.
+TRANSICIÓN DE GÉNERO: Proceso donde la persona desea alinear más estrechamente su identidad de género con su expresión de género. Esto puede incluir cambiarse de ropa, usar nombres y pronombres para ser reconocidos socialmente como de otro género y / o someterse a transiciones físicas a través de la intervención médica.
+TRAVESTI: Si bien cualquier persona puede usar ropa asociada con un sexo diferente, el término se usa generalmente para referirse a hombres que ocasionalmente usan ropa, maquillaje y accesorios asociados culturalmente con mujeres. Los hombres suelen ser heterosexuales y no desean cambiar permanentemente su identidad de género. Es una forma de expresión de género y no se hace con fines de entretenimiento. 
+--- PÁGINA 86 --- GLOSARIO 6 | DIMENSIÓN EXPERIENCIAL | 6.2
+ACTITUDES: Manera de estar alguien dispuesto a comportarse u obrar.
+AFRODESCENDIENTES: Todos los pueblos y las personas descendientes de la diáspora africana en el mundo. En América Latina y el Caribe incluye a las distintas culturas "negras" o "afroamericanas" que emergieron de los descendientes de africanos, las que sobrevivieron a la trata o al comercio esclavista que se dio en el Atlántico desde el siglo XVI hasta el XIX.
+AUTOIDENTIFICACIÓN: El criterio de la autoidentificación es primordial para la clasificación de los pueblos indígenas y afrodescendientes, ya que es coherente con el enfoque de los Derechos Humanos. Alude al ejercicio efectivo del derecho a identificarse como perteneciente a un pueblo, al desarrollo de la conciencia individual de esta pertenencia y a la aceptación de esta pertenencia por parte del resto de la sociedad.
+CREENCIAS: Conjunto de principios ideológicos de una persona, un grupo social o un partido político.
+CULTURA: Conjunto de modos de vida y costumbres, conocimientos y grado de desarrollo artístico, científico, industrial, en una época, grupo social.
+ETNIA: Se refiere a un grupo humano que comparte una cultura, una historia y costumbres, y cuyos miembros están unidos por una conciencia de identidad. De esta definición se desprende que una etnia implica un grupo étnico.
+IGUALDAD DE OPORTUNIDADES: Proceso mediante el cual el sistema general de la sociedad, tal como el medio físico y cultural, la vivienda y el transporte, los servicios sociales y sanitarios, las oportunidades de educación y trabajo, la vida cultural y social, incluidas las instalaciones deportivas y de recreación, se hacen accesibles para todas y todos.
+--- PÁGINA 87 --- GLOSARIO 6 | DIMENSIÓN EXPERIENCIAL | 6.2
+MIGRANTES: Grupo que ha abandonado su país de origen. Se puede hablar de una nacionalidad jurídica o administrativa (chileno, ecuatoriano, argentino, por ejemplo), o de una nacionalidad social, que alude a la pertenencia a un grupo con una fuerte construcción histórico identificatoria (vasco, gallego, etc).
+MORAL: Perteneciente o relativo a las acciones de las personas, desde el punto de vista de su obrar en relación con el bien o el mal y en función de su vida individual y, sobre todo, colectiva.
+PUEBLOS ORIGINARIOS O INDÍGENAS: Son los pueblos con cultura y costumbres propias, que habitaron el territorio chileno previo a la conquista española y continúan haciéndolo en la actualidad. Parte de la población tiene como herencia, la composición genética derivada de estos pueblos, tener un apellido indígena o reconocerse como tal tratando de mantener viva su cultura, costumbres, lenguaje e historia. Los diversos pueblos han sido definidos arqueológicamente según su pertenencia a un espacio geográfico del territorio, lenguaje y costumbres, estos son los: Aymaras, Rapa Nui, Quechuas, Mapuches, Atacameños, Colla, Kawéscar, Yaganes y Diaguitas.
+RELIGIÓN O CREENCIA: Grupo de personas que comparten un sistema cultural de comportamientos, prácticas, ritos, cosmovisión y ética, profundamente relacionados con cuestiones existenciales. Una creencia puede ser de carácter religioso, filosófico e incluso la ausencia de un credo. Generalmente una creencia debe afectar las decisiones que se toman o la forma en que se vive para ser incluida en esta categoría.
+SOCIOECONÓMICO: Aquello vinculado a elementos sociales y económicos. Lo social, en tanto, está relacionado con la sociedad (una comunidad de individuos que viven en un mismo territorio compartiendo normas), mientras que lo económico depende de la economía (la administración de bienes escasos para la satisfacción de las necesidades materiales del ser humano).
+--- PÁGINA 88 --- GLOSARIO 6 | DIMENSIÓN COGNITIVA | 6.3
+ACCESIBILIDAD UNIVERSAL: Condición que deben cumplir los entornos, procesos, bienes, productos y servicios, así como los objetos o instrumentos, herramientas y dispositivos, para ser comprensibles, utilizables, y practicables por todas las personas, en condiciones de seguridad y comodidad, de la forma más autónoma y natural posible (Ley No 20.422).
+ACOSO LABORAL: Toda conducta que constituya agresión u hostigamiento reiterado, ejercida por el empleador o por uno o más trabajadores, en contra de otro u otros trabajadores, por cualquier medio, y que tenga como resultado para el/la o los(as) afectados(as) su menoscabo, maltrato o humillación, o bien que amenace o perjudique su situación laboral o sus oportunidades en el empleo. (Acoso Laboral - Centro de Consultas. Dirección del Trabajo. Gobierno de Chile, 2018)
+ACTIVIDADES E INTERESES: Especial capacidad intelectual o aptitud que una persona tiene para aprender las cosas con facilidad o para desarrollar con mucha habilidad una actividad.
+CORRESPONSABILIDAD: La corresponsabilidad es el reparto equitativo o responsabilidad compartida y asumida por igual entre dos o más personas. Se trata de un equilibrio en el reparto de las tareas, la toma de decisiones y la responsabilidad entre las personas en las distintas esferas de la vida, es decir, en la vida personal, en el hogar, en el trabajo y en la esfera pública. La corresponsabilidad en los hogares significa repartir las tareas domésticas y de cuidado entre las y los adultos presentes, prestando especial atención a que haya un balance de las tareas entre mujeres y hombres, a fin de evitar la sobrecarga del trabajo no remunerado en las mujeres.
+DISCRIMINACIÓN ARBITRARIA: Toda distinción, exclusión o restricción que carezca de justificación razonable, efectuada por agentes del Estado o particulares, y que cause privación, perturbación o amenaza en el ejercicio legítimo de los derechos fundamentales establecidos en la Constitución Política de la República o en los tratados internacionales sobre Derechos Humanos ratificados por Chile y que se encuentren vigentes (Ley 20.609, 2012).
+EMPATÍA: Es la capacidad a través de la cual alcanzamos una conciencia acerca de los sentimientos, necesidades y preocupaciones ajenas. 
+--- PÁGINA 89 --- GLOSARIO 6 | DIMENSIÓN COGNITIVA | 6.3
+ESTILO DE TRABAJO: Hace referencia a la forma de pensar, trabajar y responder ante distintas situaciones. Algunas personas son más analíticas y se toman más tiempo para la resolución de conflictos, algunos pueden tomar decisiones con más celeridad tomando más riesgos.
+HABILIDADES SOCIALES: Capacidad para inducir respuestas deseables en los demás.
+HÁBITOS: Prácticas de conducta, acciones que desarrollamos de una manera casi inconsciente (si no en su totalidad).
+INTELIGENCIA EMOCIONAL: La capacidad para saber gestionar nuestras emociones y las ajenas, utilizando como fuente fundamental la empatía.
+LEYES CONTRA LA DISCRIMINACIÓN: Leyes federales, estatales y locales que prohíben que el gobierno y / o las organizaciones privadas discriminen a alguien en función de ciertas características personales, como raza, religión, edad, sexo, discapacidad, orientación sexual o identidad o expresión de género. Las leyes tienden a centrarse en el empleo, la vivienda y las instalaciones públicas (es decir, tiendas, restaurantes, instituciones educativas, etc.).
+TALENTO: Característica de aquellas personas cuyas capacidades se encuentran comprometidas a hacer cosas que mejoren los resultados de la organización. 
+--- PÁGINA 90 --- GUÍA RÁPIDA DE LENGUAJE INCLUSIVO
+--- PÁGINA 91 --- GUÍA RÁPIDA | 7 DE LENGUAJE INCLUSIVO 
+El lenguaje inclusivo intenta reconocer la diversidad humana y que visibilice tanto a mujeres como a hombres, u otros grupos subrepresentados. Un lenguaje, además, respetuoso, que reconozca y valore las aportaciones de todas las personas en el trabajo por un medioambiente sostenible y demás espacios vitales.
+ Es una forma de expresarnos que intenta romper, desde la comunicación, el sexismo que todavía prevalece en nuestra sociedad y que busca darles la vuelta a situaciones de desigualdad en función de la identidad sexual u otras dimensiones de la identidad que son sometidas a exclusión. 
+Es importante recordar que no sólo cómo se utiliza el mensaje es fundamental, también en qué formatos y plataformas los utilizamos. Recomendamos revisar las nociones de diseño inclusivo.
+Para incorporar un lenguaje que permita a las personas sentirse incluidas hay ciertos términos que debemos evitar en nuestras comunicaciones, como las siguientes:
+ETIQUETAS QUE NO DEBEN USARSE: Discapacitado, minusválido
+LENGUAJE ENFOCADO EN LA PERSONA: Persona con una discapacidad, personas con discapacidad
+ETIQUETAS QUE NO DEBEN USARSE: Persona normal, sana
+LENGUAJE ENFOCADO EN LA PERSONA: Persona sin discapacidad
+ETIQUETAS QUE NO DEBEN USARSE: Paciente mental
+LENGUAJE ENFOCADO EN LA PERSONA: Persona con discapacidad psicosocial
+ETIQUETAS QUE NO DEBEN USARSE: Persona con retraso mental
+LENGUAJE ENFOCADO EN LA PERSONA: Persona con discapacidad intelectual, persona con dificultades de aprendizaje, persona con discapacidad cognitiva
+--- PÁGINA 92 --- GUÍA RÁPIDA | 7 DE LENGUAJE INCLUSIVO
+ETIQUETAS QUE NO DEBEN USARSE: Discapacitado visual
+LENGUAJE ENFOCADO EN LA PERSONA: Persona con deficiencia visual, persona con visión parcial
+ETIQUETAS QUE NO DEBEN USARSE: Sordomudo
+LENGUAJE ENFOCADO EN LA PERSONA: Sordo, persona sorda
+ETIQUETAS QUE NO DEBEN USARSE: Discapacitado auditivo
+LENGUAJE ENFOCADO EN LA PERSONA: Persona con discapacidad auditiva, persona con problemas de audición
+ETIQUETAS QUE NO DEBEN USARSE: Afligido por / víctima de esclerosis múltiple
+LENGUAJE ENFOCADO EN LA PERSONA: Persona que tiene esclerosis múltiple
+ETIQUETAS QUE NO DEBEN USARSE: Autista
+LENGUAJE ENFOCADO EN LA PERSONA: Persona con autismo
+ETIQUETAS QUE NO DEBEN USARSE: Persona lenta en aprender
+LENGUAJE ENFOCADO EN LA PERSONA: Persona con dificultad de aprendizaje
+ETIQUETAS QUE NO DEBEN USARSE: Down
+LENGUAJE ENFOCADO EN LA PERSONA: Persona con síndrome de Down
+ETIQUETAS QUE NO DEBEN USARSE: Enano
+LENGUAJE ENFOCADO EN LA PERSONA: Persona de talla baja
+--- PÁGINA 93 --- GUÍA RÁPIDA | 7 DE LENGUAJE INCLUSIVO
+ETIQUETAS QUE NO DEBEN USARSE: Confinado a una silla de ruedas
+LENGUAJE ENFOCADO EN LA PERSONA: Persona que usa silla de ruedas, persona usuaria de silla de ruedas
+ETIQUETAS QUE NO DEBEN USARSE: Espástico
+LENGUAJE ENFOCADO EN LA PERSONA: Persona con parálisis cerebral
+ETIQUETAS QUE NO DEBEN USARSE: Minusválido, impedido, incapacitado, discapacitado, persona minusválida o «especial».
+LENGUAJE ENFOCADO EN LA PERSONA: Persona con discapacidad
+ETIQUETAS QUE NO DEBEN USARSE: Confinado a una silla de ruedas, postrado en una silla de ruedas
+LENGUAJE ENFOCADO EN LA PERSONA: Persona usuaria de silla de ruedas, persona que utiliza una silla de ruedas
+ETIQUETAS QUE NO DEBEN USARSE: Defecto de nacimiento
+LENGUAJE ENFOCADO EN LA PERSONA: Discapacidad congénita
+--- PÁGINA 94 --- GUÍA RÁPIDA | 7 DE LENGUAJE INCLUSIVO 
+EL USO DEL MASCULINO COMO GENÉRICO: CÓMO EVITARLO 
+Se debe tomar en cuenta en la comunicación como nos expresamos de acuerdo con el género de las personas. No es correcto utilizar el masculino genérico, porque su uso para hablar de un grupo de personas contribuye a invisibilizar colectivos de personas ya de por sí históricamente discriminadas. 
+La Organización de Estados Americanos (OEA) nos recomienda que: “Cada persona debe ser nombrada. Esto implica cuestionar las lógicas androcéntricas que sustentan e imponen el uso del así llamado “masculino genérico”, que se ha llegado a presuponer “inclusivo”, en términos que “representaría” no sólo lo femenino, sino todas aquellas identidades trascienden el binario al nombrar conjuntos integrados por personas de diversos géneros.”
+A continuación, recomendaciones que nos facilita la OEA para neutralizar nuestro lenguaje:
+ESTRATEGIA: Usar la palabra personas | NO INCLUSIVO: Todos los asistentes al taller | INCLUISVO: Todas las personas que asistieron al taller.
+ESTRATEGIA: Evitar gentilicios | NO INCLUSIVO: Los chilenos | INCLUISVO: La ciudadanía chilena, el pueblo chileno.
+ESTRATEGIA: Usar sustantivos abstractos | NO INCLUSIVO: Los voluntarios | INCLUISVO: El voluntariado
+ESTRATEGIA: Tener en cuenta la concordancia de género | NO INCLUSIVO: Los directores | INCLUISVO: El director, la directora
+ESTRATEGIA: Duplicar en documentos oficiales | NO INCLUSIVO: Los empleados | INCLUISVO: Los empleados y las empleadas
+ESTRATEGIA: Preguntar siempre pronombres | NO INCLUSIVO: Asumir los pronombres de una persona | INCLUISVO: Utilizar el nombre y pronombre preferido por la persona
+ESTRATEGIA: Cambiar el tiempo de la frase | NO INCLUSIVO: "estás ocupado"| INCLUISVO:  "te has ocupado"
+ESTRATEGIA: Convertir el adverbio en sustantivo | NO INCLUSIVO: "estar calificado"| INCLUISVO: "tener las calificaciones"
+ESTRATEGIA: Cambiar el adjetivo por un adverbio | NO INCLUSIVO: hacerse "maestro", hacerse "doctor"| INCLUISVO: "adquirir la maestría", "adquirir el doctorado"
+
+
